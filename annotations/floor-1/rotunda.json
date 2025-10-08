@@ -1,1 +1,253 @@
-[]
+[{
+    "id": "7b8f6579-20fb-4220-9213-bc97b86487c8",
+    "annotationId": "7aa256fc-5139-43a3-a921-e20a853eb51f",
+    "language": "ID",
+    "title": "GANESHA",
+    "description": "<p>Candi Banon, Magelang, Jawa Tengah<br>Abad ke-9 Masehi<br>No. Inv. 186b/4845</p><br/><p>Putra Śiwa dan Parwati yang menjadi dewa pengetahuan,<br>menyimbolkan ilmu, kebijaksanaan, dan pengusir rintangan<br>dalam agama Hindu.<br>Nama lainnya adalah Ganapati, Wigneśwara. Pada candi<br>Śaiwa, ia ditempatkan di relung sebelah barat.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_GANESHA_186B LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_GANESHA_186B LOW-id.mp3"
+}, {
+    "id": "06d3d138-89d3-486b-bb2d-abb4e181e839",
+    "annotationId": "7aa256fc-5139-43a3-a921-e20a853eb51f",
+    "language": "EN",
+    "title": "GANESHA",
+    "description": "<p>Candi Banon, Magelang, Central Java<br>9th Century CE<br>No. Inv. 186b/4845</p><br/><p>The son of Śiva and Parvati, known as the God of<br>Wisdom in Hinduism, embodies knowledge, wisdom,<br>and one who removes obstacles.<br>Also known as Ganapati, Vigneshwara. In Saiva temples,<br>he is placed in the western niche.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_GANESHA_186B LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/SS26RT_GANESHA_186B LOWSM103F-id.mp3"
+},{
+    "id": "6ff679be-214f-45e5-89c2-4bc6e0390f87",
+    "annotationId": "820dc0b9-0709-418d-8a55-3a8f19acc445",
+    "language": "ID",
+    "title": "ŚIWA MAHĀDEWA",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-10 - 12 Masehi<br>No. Inv. 51<br><br>Dewa tertinggi dalam agama Hindu yang diyakini sebagai dewa<br>pelebur dan pencipta kembali alam semesta dan isinya.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT30Siwamahadewa51Low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT30Siwamahadewa51Low-id.mp3"
+}, {
+    "id": "27b1bae0-3779-4241-b59e-d2532a7dce34",
+    "annotationId": "820dc0b9-0709-418d-8a55-3a8f19acc445",
+    "language": "EN",
+    "title": "ŚIWA MAHĀDEWA",
+    "description": "<p>Location of discovery unknown<br>10th - 12ndCentury CE<br>No. Inv. 51<br>&nbsp;<br>The highest God in Hinduism, believed to be the destroyer and<br>re-creator of the universe and everything within it.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT30Siwamahadewa51Low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT30Siwamahadewa51Low-en.mp3"
+},{
+    "id": "297b4f17-32a6-41f3-b79b-e4f000a6c3f7",
+    "annotationId": "74892672-6010-4d48-a879-01cb40e08628",
+    "language": "ID",
+    "title": "KARTIKEYA",
+    "description": "<p>Ngupit, Klaten, Jawa Tengah<br>Abad ke-9 Masehi<br>No. Inv. 202a/4315</p><br/><p>Kartikeya, yang juga dikenal sebagai Skanda, dikenal sebagai Dewa<br>Perang dan Keremajaan penuh semangat yang mengendarai burung<br>merak, dan bersenjatakan tombak. Dalam tradisi wayang Jawa, Ia<br>juga dikenal sebagai Rare Kumara.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT18KARTIKEYA202ALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT18KARTIKEYA202ALOW-id.mp3"
+}, {
+    "id": "ffea112d-3271-4aa4-be3d-a934cafb4a9f",
+    "annotationId": "74892672-6010-4d48-a879-01cb40e08628",
+    "language": "EN",
+    "title": "SKANDA",
+    "description": "<p>Ngupit, Klaten, Central Java<br>9th Century CE<br>No. Inv. 202a/4315</p><br/><p>Kartikeya, also known as Skanda, is the spirited God of War and<br>Youth who rides a peacock and wields a spear. In the Javanese<br>wayang (puppet) tradition, he is also known as Rare Kumara.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT18KARTIKEYA202ALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT18KARTIKEYA202ALOW-en.mp3"
+},{
+    "id": "b08c7a34-6d6d-47e4-ba91-ff6bf4d530b0",
+    "annotationId": "58dd58f9-3725-4733-9e27-e06d2c9e54c1",
+    "language": "ID",
+    "title": "PARWATI ARCA PERWUJUDAN",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-14-15 Masehi<br>No. Inv. 126</p><br/><p>Arca seorang ratu/penguasa yang diwujudkan sebagai figur Dewi Parwati,<br>śakti Dewa Śiwa. Sifat sang dewi sangat ideal bagi penguasa bergender<br>perempuan di masa lampau dan relevan hingga kini. Parwati adalah separuh<br>kekuatan Śiwa yang memiliki karakter kuat, tegas, bijaksana, setia, penuh<br>kelembutan, juga cantik dan anggun.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_PARWATI_126 LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_PARWATI_126 LOW-id.mp3"
+}, {
+    "id": "a18f971a-5319-43c1-8bd3-4e75dffcf023",
+    "annotationId": "58dd58f9-3725-4733-9e27-e06d2c9e54c1",
+    "language": "EN",
+    "title": "EMBODIMENT STATUE",
+    "description": "<p>Location of discovery unknown<br>14th-15thCentury CE<br>No. Inv. 126</p><br/><p>A statue of a queen/ruler depicted as the figure of a goddess Parvati,<br>the consort of Śiva. The qualities of the goddess are ideal of a female<br>ruler of the past and remain relevant today. Parvati is half of Śiva&rsquo;s<br>power, embodying a firm, wise, lyal nature, as well as beauty and<br>grace.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_PARWATI_126 LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_PARWATI_126 LOW-en.mp3"
+},{
+    "id": "3d2f41bc-e04d-487c-be99-ddfbf0248b67",
+    "annotationId": "299e44bd-630b-43d3-8998-efd5a2820aad",
+    "language": "ID",
+    "title": "GANESHA",
+    "description": "<p>Ungaran, Semarang, Jawa Tengah<br>Abad ke-8-9 Masehi<br>No. Inv. 199f/4373</p><br/><p>Putra Śiwa dan Parwati yang menjadi dewa pengetahuan,<br>menyimbolkan ilmu, kebijaksanaan, dan pengusir rintangan dalam<br>agama Hindu. Ia juga dikenal dengan nama-nama lain seperti<br>Ganapati dan Wigneswara.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT10GANESHA199FLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT10GANESHA199FLOW-id.mp3"
+}, {
+    "id": "ed9dbde3-dea5-449d-b6b4-841d4356755a",
+    "annotationId": "299e44bd-630b-43d3-8998-efd5a2820aad",
+    "language": "EN",
+    "title": "GANESHA",
+    "description": "<p>Ungaran, Semarang, Central Java<br>8th-9th Century CE<br>No. Inv. 199f/4373</p><br/><p>The son of Śiva and Parvati who became the God of<br>Knowledge, symbolizing knowledge, wisdom, and the remover<br>of obstacles in Hinduism. He is also known by other names<br>such as Ganapati and Vighneswara.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT10GANESHA199FLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT10GANESHA199FLOW-en.mp3"
+},{
+    "id": "3d2f41bc-e04d-487c-be99-ddfbf0248b67",
+    "annotationId": "5aaa7f96-99f0-4133-b063-3fc61a373315",
+    "language": "ID",
+    "title": "GANESHA",
+    "description": "<p>Ungaran, Semarang, Jawa Tengah<br>Abad ke-8-9 Masehi<br>No. Inv. 199f/4373</p><br/><p>Putra Śiwa dan Parwati yang menjadi dewa pengetahuan,<br>menyimbolkan ilmu, kebijaksanaan, dan pengusir rintangan dalam<br>agama Hindu. Ia juga dikenal dengan nama-nama lain seperti<br>Ganapati dan Wigneswara.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT10GANESHA199FLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT10GANESHA199FLOW-id.mp3"
+}, {
+    "id": "ed9dbde3-dea5-449d-b6b4-841d4356755a",
+    "annotationId": "5aaa7f96-99f0-4133-b063-3fc61a373315",
+    "language": "EN",
+    "title": "GANESHA",
+    "description": "<p>Ungaran, Semarang, Central Java<br>8th-9th Century CE<br>No. Inv. 199f/4373</p><br/><p>The son of Śiva and Parvati who became the God of<br>Knowledge, symbolizing knowledge, wisdom, and the remover<br>of obstacles in Hinduism. He is also known by other names<br>such as Ganapati and Vighneswara.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT10GANESHA199FLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT10GANESHA199FLOW-en.mp3"
+},{
+    "id": "4a62de87-57f4-4c83-961a-f2856a5ecdad",
+    "annotationId": "95cf7248-7cd3-4ef6-96ca-2cdf8fd794fb",
+    "language": "ID",
+    "title": "CHANDRA",
+    "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, Jawa Timur<br>Abad ke-11-13 Masehi<br>No. Inv. 8456</p><br/><p>Chandra, sang Dewa Bulan, dikenal juga sebagai Soma dari teks suci<br>kuno Weda. Nama Chandra memiliki arti terang dan bersinar.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT05CHANDRA8456LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT05CHANDRA8456LOW-id.mp3"
+}, {
+    "id": "d21b5267-d179-4901-ba9d-ef369c318039",
+    "annotationId": "95cf7248-7cd3-4ef6-96ca-2cdf8fd794fb",
+    "language": "EN",
+    "title": "CHANDRA",
+    "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, &nbsp;East Java<br>Abad ke-11th-13th Century CE<br>No. Inv. 8456</p><br/><p>Chandra, the Moon God, is also known as Soma from the<br>ancient sacred texts of the Vedas. The name Chandra means<br>bright and shining.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT05CHANDRA8456LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT05CHANDRA8456LOW-en.mp3"
+},{
+    "id": "71812c4e-a7b0-4623-8c5c-8ee76fcefe87",
+    "annotationId": "4f4c8437-cec4-411b-8983-d97f0afc33ad",
+    "language": "ID",
+    "title": "KALI",
+    "description": "<p>Semarang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 154</p><br/><p>Dewi Durga kerap hadir dalam berbagai wujud. Salah satunya sebagai<br>Kali &mdash; dewi yang dipuja oleh penganut ajaran Hindu Tantra.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT15KALI154LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT15KALI154LOW-id.mp3"
+}, {
+    "id": "66a83479-e06b-46db-86b7-f22df698dbf9",
+    "annotationId": "4f4c8437-cec4-411b-8983-d97f0afc33ad",
+    "language": "EN",
+    "title": "KALI",
+    "description": "<p>Semarang, Central Java<br>8th - 9th Century CE<br>No. Inv. 154</p><br/><p>Durga the Goddess is known to manifest in many forms, one of<br>which is Kali, a revered figure among Tantric Hindus.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT15KALI154LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT15KALI154LOW-en.mp3"
+},{
+    "id": "a8599576-8942-4d9e-96a3-abf691ba49d3",
+    "annotationId": "a1d77622-d767-4fde-b748-f0083217a385",
+    "language": "ID",
+    "title": "KAMAJAYA",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-11-12 Masehi<br>No. Inv. 206</p><br/><p>Dewa asmara dalam agama Hindu yang mengendarai burung Nuri dan<br>memiliki senjata panah berhiaskan bunga. Pasangannya adalah dewi<br>Ratih. Pernahkah Anda jatuh cinta? Mungkin Kama &mdash; sang Dewa<br>Asmara menembakkan anak panah berhiaskan bunganya ke hati<br>Anda.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT17KAMAJAYA206LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT17KAMAJAYA206LOW-id.mp3"
+}, {
+    "id": "518ec0b6-2a3a-455e-805a-4fa0817a692d",
+    "annotationId": "a1d77622-d767-4fde-b748-f0083217a385",
+    "language": "EN",
+    "title": "KAMAJAYA",
+    "description": "<p>Location unknown<br>11th-12th Century CE<br>No. Inv. 206</p><br/><p>The God of Love in Hinduism who rides a parrot and carries a<br>bow adorned with flowers. His consort is Ratih the Goddess.<br>Have you ever been in love? Maybe Kama &mdash; the God of Love &mdash;<br>shot his flower-adorned arrow into your heart.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT17KAMAJAYA206LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT17KAMAJAYA206LOW-en.mp3"
+},{
+    "id": "8bf393c3-da37-4fa7-ad7c-4566e8c1aef7",
+    "annotationId": "d2f2f0f6-2f7a-4cd0-9cea-f60a35afeb0a",
+    "language": "ID",
+    "title": "ŚIWA MAHĀDEWA ARCA PERWUJUDAN",
+    "description": "<p>Kediri, Jawa Timur<br>Abad ke-13-14 Masehi<br>No. Inv. 262a/3261<br>&nbsp;<br>Arca seorang raja/penguasa yang diwujudkan sebagai figur Dewa Śiwa<br>Mahādewa. Raja adalah penguasa tertinggi yang memiliki keberanian,<br>kekuatan penghancur musuh, kekuasaan, dan pengetahuan.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT27SHAP262aLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT27SHAP262aLOW-id.mp3"
+}, {
+    "id": "f40ee0cf-2a1d-4197-b141-87e59842ec27",
+    "annotationId": "d2f2f0f6-2f7a-4cd0-9cea-f60a35afeb0a",
+    "language": "EN",
+    "title": "ŚIWA MAHĀDEWA EMBODIMENT STATUE",
+    "description": "<p>Kediri, East java<br>13th-14thCentury CE<br>No. Inv. 262a/3261<br>&nbsp;<br>A statue of a king/ ruler depicted as the figure of the god Śiva<br>Mahādeva. The king is the supreme ruler, embodying courage,<br>the power to destroy enemies, authority, and knowledge.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT27SHAP262aLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT27SHAP262aLOW-en.mp3"
+},{
+    "id": "88ca912c-b3e3-4792-a8da-a4badad97716",
+    "annotationId": "16073d00-f55e-4e5a-aeeb-eae9f2927aab",
+    "language": "ID",
+    "title": "ŚIWA-INDRA ARCA PERWUJUDAN",
+    "description": "<p>Kediri, Jawa Timur<br>Abad ke-13-14 Masehi<br>No. Inv. 262c/3263<br>&nbsp;<br>Arca seorang raja/penguasa yang diwujudkan sebagai figur perpaduan Dewa Śiwa<br>Mahādewa dan Indra. Tanda Siwa dan Indra terwakili dengan camara (penghalau<br>serangga) dan wajra (tongkat logam bersula). Indra adalah Dewa perang, pemimpin<br>para dewa. Śiwa, Dewa penghancur dan pencipta ulang. Perpaduan Siwa - Indra<br>sangat kuat dan ideal untuk disematkan kepada seorang raja.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT28SIAP262cLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT28SIAP262cLOW-id.mp3"
+}, {
+    "id": "b65a69a5-ef52-43bc-a181-c01f3d9613bf",
+    "annotationId": "16073d00-f55e-4e5a-aeeb-eae9f2927aab",
+    "language": "EN",
+    "title": "ŚIWA-INDRA EMBODIMENT STATUE",
+    "description": "<p>Kediri, East Java<br>13th-14th Century CE<br>No. Inv. 262c/3263</p><br/><p>A statue of a king/ ruler depicted as the figure of the gods Śiva Mahādeva<br>and Indra. The symbols of Śiva and Indra are represented by the Camara<br>(fly whisk) and Vajra (a metal thunderbolt). Indra is the god of war and the<br>leader of the gods, while Śiva is the destroyer and recreator. The<br>Combination of Śiva and Indra is powerful and ideal for attributing to a king.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT28SIAP262cLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT28SIAP262cLOW-en.mp3"
+},{
+    "id": "0c27a165-1af4-4990-9804-f5ffda21d37c",
+    "annotationId": "",
+    "language": "ID",
+    "title": "KALI",
+    "description": "<p>Tulungagung, Jawa Timur<br>Abad ke-13 Masehi<br>Inventory No. 154a/3630</p><br/><p>Kali, perwujudan dewi Durga yang dinamis dan tangguh, dipuja<br>dengan penuh bakti oleh penganut Hindu Tantra. Mari memetik<br>inspirasi dari sosok Kali, untuk tetap menjadi pribadi yang tangguh di<br>segala kondisi.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT16KALI154ALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT16KALI154ALOW-id.mp3"
+}, {
+    "id": "045ff6c6-9830-4883-aa6b-80ab2be39228",
+    "annotationId": "",
+    "language": "EN",
+    "title": "KALI",
+    "description": "<p>Tulungagung, East Java<br>13th Century CE<br>Inventory No. 154a/3630</p><br/><p>Kali, the dynamic and powerful embodiment of Durga the<br>Goddess, is worshiped with great devotion by Tantric Hindus.<br>Let's take inspiration from Kali Kali, to remain a strong person in<br>any condition.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT16KALI154ALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT16KALI154ALOW-en.mp3"
+},{
+    "id": "f1dd0f01-d4a4-499d-9108-bf321685eed4",
+    "annotationId": "",
+    "language": "ID",
+    "title": "KUWERA",
+    "description": "<p>D.I. Yogyakarta<br>Abad ke-9 Masehi<br>No. Inv. 207</p><br/><p>Dewa kekayaan dan kemakmuran, pelindung mata angin utara<br>dalam Astadikpalaka, memberikan perlindungan atas<br>kemakmuran dan pemeliharaan kelimpahan.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_KUWERA_207LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_KUWERA_207LOW-id.mp3"
+}, {
+    "id": "f1dd0f01-d4a4-499d-9108-bf321685eed4",
+    "annotationId": "",
+    "language": "EN",
+    "title": "KUWERA",
+    "description": "<p>D.I. Yogyakarta<br>9th Century CE<br>No. Inv. 207</p><br/><p>The God of Wealth, the protector of the north direction in<br>Ashtadikpalaka, offers protection for prosperity and ensures<br>the flow of abundance.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_KUWERA_207LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_KUWERA_207LOW-en.mp3"
+},{
+    "id": "cacaead4-5a01-481e-8a03-901322d69322",
+    "annotationId": "",
+    "language": "ID",
+    "title": "ŚIWA MAHĀDEWA ARCA PERWUJUDAN",
+    "description": "<p>Mojokerto, Jawa Timur<br>Abad ke-14-15 Masehi<br>No. Inv. 38</p><br/><p>Arca seorang raja/penguasa Majapahit yang diwujudkan sebagai figur<br>Dewa Śiwa Mahādewa. Raja adalah penguasa tertinggi yang memiliki<br>keberanian, kekuatan penghancur musuh, kekuasaan, dan<br>pengetahuan.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-SMAP38-LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-SMAP38-LOW-id.mp3"
+}, {
+    "id": "52603bd1-6357-464a-83e0-5c61d5a6c4cf",
+    "annotationId": "",
+    "language": "EN",
+    "title": "ŚIWA MAHĀDEWA EMBODIMENT STATUE",
+    "description": "<p><br>Mojokerto, East Java<br>14th-15th Century CE<br>No. Inv. 38</p><br/><p>A statue of a king/ruler depicted as the figure of the god Śiva<br>Mahādeva. The King is the supreme ruler, embodying courage,<br>the power to destroy enemies, authority, and knowledge.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-SMAP38-LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-SMAP38-LOW-en.mp3"
+}]
