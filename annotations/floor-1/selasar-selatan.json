@@ -1,0 +1,73 @@
+[{
+    "id": "6e5abdd8-40e7-444e-9077-749089896eb1",
+    "annotationId": "db996e86-e849-405c-98f1-171ed3537bfd",
+    "language": "ID",
+    "title": "ŚIWA MAHADEWA",
+    "description": "<p>Gunung Kombeng, Muara Wahau, Kutai Timur, Kalimantan Timur/ East Kalimantan<br>Abad ke-8-9 Masehi/ Century CE<br>No. Inv. 103f/3783</p><br/><p>Dewa tertinggi dalam agama Hindu yang diyakini sebagai dewa pelebur dan pencipta kembali alam<br>semesta dan isinya, kendaraannya adalah Nandi.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-selatan/SS26SM103F.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-selatan/SS26SM103F-ID.mp3"
+}, {
+    "id": "3bbbc7d9-3686-4123-98a6-dd1c1c8accf1",
+    "annotationId": "db996e86-e849-405c-98f1-171ed3537bfd",
+    "language": "EN",
+    "title": "ŚIWA MAHADEWA",
+    "description": "<p>Gunung Kombeng, Muara Wahau, Kutai Timur, Kalimantan Timur/ East Kalimantan<br>Abad ke-8-9 Masehi/ Century CE<br>No. Inv. 103f/3783</p><br/><p>The supreme god in Hinduism believed to be the destroyer and re-creator of the universe,his<br>vehicle is Nandi</p>",
+    "modelUrl": "/cdn/static/glb/selasar-selatan/SS26SM103F.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-selatan/SS26SM103F-EN.mp3"
+},{
+    "id": "da4dca74-0002-4090-8779-b646c2473b12",
+    "annotationId": "b4ee1834-32d2-4ec2-b882-6ed73fb7bb36",
+    "language": "ID",
+    "title": "ŚIWA MAHADEWA",
+    "description": "<p>Ungaran, Ambarawa, Semarang, Jawa Tengah/ Central Java<br>Abad ke-8-9 Masehi/ Century CE<br>No. Inv. 31a/4370</p><br/><p>Dewa tertinggi dalam agama Hindu yang diyakini sebagai dewa pelebur dan pencipta kembali alam<br>semesta dan isinya.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-selatan/SS23SM31A.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-selatan/SS23SM31A-ID.mp3"
+}, {
+    "id": "89767cf4-57c1-4f16-b534-611909771c10",
+    "annotationId": "b4ee1834-32d2-4ec2-b882-6ed73fb7bb36",
+    "language": "EN",
+    "title": "ŚIWA MAHADEWA",
+    "description": "<p>Ungaran, Ambarawa, Semarang, Jawa Tengah/ Central Java<br>Abad ke-8-9 Masehi/ Century CE<br>No. Inv. 31a/4370</p><br/><p>The supreme God in Hinduism, believed to be the god who dissolves and recreates the<br>universe and all its contents</p>",
+    "modelUrl": "/cdn/static/glb/selasar-selatan/SS23SM31A.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-selatan/SS23SM31A-EN.mp3"
+},{
+    "id": "681bd299-006e-492a-b629-41b744a31342",
+    "annotationId": "6272680c-f0ef-4938-98d9-222d5f329937",
+    "language": "ID",
+    "title": "PARWATI",
+    "description": "<p>Magelang, Jawa Tengah/ Central Java<br>Abad ke-9 Masehi/ Century CE<br>No. Inv. 108</p><br/><p>Śakti Dewa Śiwa, personifikasi kekuatan Śiwa dalam wujud dewi.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-selatan/SS21PARWATI108.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-selatan/SS21PARWATI108-ID.mp3"
+}, {
+    "id": "ec933635-d54e-42dd-b46c-8e8920d4d1b5",
+    "annotationId": "6272680c-f0ef-4938-98d9-222d5f329937",
+    "language": "EN",
+    "title": "PARWATI",
+    "description": "<p>Magelang, Jawa Tengah/ Central Java<br>Abad ke-9 Masehi/ Century CE<br>No. Inv. 108</p><br/><p>Śiva&rsquo;s consort, the personification of Śiva&rsquo;s power in the form of a goddess</p>",
+    "modelUrl": "/cdn/static/glb/selasar-selatan/SS21PARWATI108.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-selatan/SS21PARWATI108-EN.mp3"
+},{
+    "id": "29ce06db-5031-41d2-a94a-530d49f8c1ff",
+    "annotationId": "0c199cb2-a852-46b0-915f-557b884dfb0b",
+    "language": "ID",
+    "title": "AGASTYA",
+    "description": "<p>Semarang, Jawa Tengah/ Central Java</p><br/><p>Abad ke-8-9 Masehi/ Century CE</p><br/><p>No. Inv. 49</p><br/><p>Seorang reṣi (rohaniwan agung), murid kesayangan Dewa Śiwa yang menyebarkan agama Hindu dengan menyebrangi lautan. Ia ditempatkan di relung selatan candi Śaiwa.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-selatan/SS01Agastya49.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-selatan/SS01Agastya49-ID.mp3"
+}, {
+    "id": "53f57d38-0fb6-4130-8d6f-9278acc6f66a",
+    "annotationId": "0c199cb2-a852-46b0-915f-557b884dfb0b",
+    "language": "EN",
+    "title": "AGASTYA",
+    "description": "<p>Magelang, Jawa Tengah/ Central Java<br>Abad ke-9 Masehi/ Century CE<br>No. Inv. 108</p><br/><p>Śiva&rsquo;s consort, the personification of Śiva&rsquo;s power in the form of a goddess</p>",
+    "modelUrl": "/cdn/static/glb/selasar-selatan/SS01Agastya49.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-selatan/SS01Agastya49-EN.mp3"
+}]
