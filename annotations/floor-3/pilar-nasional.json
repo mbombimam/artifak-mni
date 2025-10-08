@@ -1,4 +1,4 @@
-[{
+ [{
     "id": "3fda17be-c048-4ae7-9e09-936cd2042282",
     "annotationId": "59783ecd-d970-4b6b-ad18-7eff731df218",
     "language": "ID",
@@ -196,4 +196,58 @@
     "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW-en.mp3"
+}, {
+    "id": "45fe6cbd-2d7b-4250-abed-6100e309ddd9",
+    "annotationId": "fe3b6e89-de24-444b-84c7-45436cb23f63",
+    "language": "ID",
+    "title": "Kalung Kerang",
+    "description": "<p>TANIMBAR, MALUKU<br />AWAL ABAD KE-19<br />KERANG, ROTAN<br />NO. INV. 3094</p><p>Kalung ini digunakan oleh laki-laki khususnya para tetua<br />dan pemimpin adat, biasanya digunakan bersamaan dengan<br />anting, dan kain tenun sebagai penutup kepala. Kalung ini<br />menggambarkan simbol kegagahan dan keberanian.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW-id.mp3"
+}, {
+    "id": "75d436e2-ba9c-4da0-bb3b-9b5165ecb275",
+    "annotationId": "fe3b6e89-de24-444b-84c7-45436cb23f63",
+    "language": "EN",
+    "title": "Shell Necklace",
+    "description": "<p>TANIMBAR, MALUKU<br />EARLY 19TH CENTURY<br />KERANG, ROTAN<br />NO. INV. 3094</p><p>This necklace is worn by men, especially elders and<br />traditional leaders, usually accompanied by earrings,<br />and a woven cloth as a head cover. This necklace<br />represents a symbol of bravery and courage.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW-en.mp3"
+},{
+    "id": "6fad5508-f2eb-4f38-9757-18fc6d926080",
+    "annotationId": "ea2ca35f-d541-4554-9fb7-c21e535c93b2",
+    "language": "ID",
+    "title": "Replika Kitab Sutasoma",
+    "description": "<p>JAWA TIMUR EAST JAVA<br />ABAD 14 14TH CENTURY<br />LONTAR, KAYU PALM LEAF, WOOD<br />Semboyan Bhinneka Tunggal Ika memiliki arti berbeda-beda<br />tetapi satu juga. Semboyan ini merupakan pernyataan sikap<br />untuk hidup berdampingan dalam perbedaan. Semboyan<br />Bhinneka Tunggal Ika dikutip dari Kitab Sutasoma yakni<br />dari pupuh 139 bait 5.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW-id"
+},{
+    "id": "f1fe4d42-f38b-4991-b03a-606a1bb492b0",
+    "annotationId": "ea2ca35f-d541-4554-9fb7-c21e535c93b2",
+    "language": "EN",
+    "title": "Replica, Sutasoma Book",
+    "description": "<p>JAWA TIMUR EAST JAVA<br />ABAD 14 14TH CENTURY<br />LONTAR, KAYU PALM LEAF, WOOD<br />The motto ”Bhinneka Tunggal Ika” means ”Unity in Diversity.”<br />This slogan is a statement of the attitude to coexist amidst<br />differences and is quoted from the Sutasoma book,<br />pupuh 139, verse 5.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW-en"
+},{
+    "id": "786319e3-65f9-46d7-8bc6-919c9a5d52e6",
+    "annotationId": "2b9d470a-01a9-4b02-b2cb-5fd7886206c8",
+    "language": "ID",
+    "title": "Tifa",
+    "description": "<p>PULAU LETI, MALUKU LETI ISLAND, MALUKU<br />AWAL ABAD KE-20 EARLY 20TH CENTURY<br />KAYU, KULIT KAMBING WOOD, GOAT SKIN<br />NO. INV. 14301<br />Tifa merupakan alat musik pengiring pada saat ritual<br />upacara. Tifa juga digunakan oleh kepala desa atau ketua<br />adat untuk menyampaikan pengumuman atau perintah.<br />Tifa ini kemungkinan digunakan untuk ritual keagamaan.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALTIFA14301LOW-id"
+},{
+    "id": "ea88e10d-c5f2-41b8-ba48-e2d5e1d2aee5",
+    "annotationId": "2b9d470a-01a9-4b02-b2cb-5fd7886206c8",
+    "language": "EN",
+    "title": "Tifa",
+    "description": "<p>PULAU LETI, MALUKU LETI ISLAND, MALUKU<br />AWAL ABAD KE-20 EARLY 20TH CENTURY<br />KAYU, KULIT KAMBING WOOD, GOAT SKIN<br />NO. INV. 14301<br />Tifa is a musical instrument used during ritual ceremonies.<br />It is also used by village heads or traditional leaders to<br />make announcements or commands. This tifa may<br />have been used for religious rituals.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALTIFA14301LOW-en"
 }]
