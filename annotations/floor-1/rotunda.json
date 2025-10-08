@@ -250,4 +250,22 @@
     "modelUrl": "/cdn/static/glb/rotunda/RT-SMAP38-LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT-SMAP38-LOW-en.mp3"
+},{
+    "id": "b9cf09e2-55f6-41b9-8c36-c0905a773ba6",
+    "annotationId": "",
+    "language": "ID",
+    "title": "DEWI ARCA PERWUJUDAN",
+    "description": "<p>Tulungagung, Jawa Timur<br>Abad ke-13 Masehi<br>Inventory No. 154a/3630</p><br/><p>Kali, perwujudan dewi Durga yang dinamis dan tangguh, dipuja<br>dengan penuh bakti oleh penganut Hindu Tantra. Mari memetik<br>inspirasi dari sosok Kali, untuk tetap menjadi pribadi yang tangguh di<br>segala kondisi.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT16KALI154ALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT16KALI154ALOW-id.mp3"
+}, {
+    "id": "ffa1d3da-8100-4ea2-800c-e240ffda0ca9",
+    "annotationId": "",
+    "language": "EN",
+    "title": "DEWI EMBODIMENT STATUE",
+    "description": "<p>Tulungagung, East Java<br>13th Century CE<br>Inventory No. 154a/3630</p><br/><p>Kali, the dynamic and powerful embodiment of Durga the<br>Goddess, is worshiped with great devotion by Tantric Hindus.<br>Let's take inspiration from Kali Kali, to remain a strong person in<br>any condition.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT16KALI154ALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT16KALI154ALOW-en.mp3"
 }]
