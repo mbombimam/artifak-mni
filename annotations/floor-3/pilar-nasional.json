@@ -88,4 +88,40 @@
     "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALTIFA14301LOW-en.mp3"
+}, {
+    "id": "d03c5d53-2dc2-47ae-890d-68a76c06b673",
+    "annotationId": "f7ff9ff8-b2f4-4592-94cc-5e17e9440494",
+    "language": "ID",
+    "title": "Replika Kapal",
+    "description": "-",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PilarNasionalReplikaKapalLOW.glb",
+    "imgUrl": "",
+    "audioUrl": ""
+}, {
+    "id": "21394b23-69de-42ef-b31c-59f0b30c9cc5",
+    "annotationId": "f7ff9ff8-b2f4-4592-94cc-5e17e9440494",
+    "language": "EN",
+    "title": "Replika Kapal",
+    "description": "-",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PilarNasionalReplikaKapalLOW.glb",
+    "imgUrl": "",
+    "audioUrl": ""
+}, {
+    "id": "a043e284-0167-4bbf-aad5-43b57e8de7db",
+    "annotationId": "ad124649-e83f-4aa4-8bd3-aeff2a1eec41",
+    "language": "ID",
+    "title": "Pekinangan",
+    "description": "<p>KEPULAUAN SULA, MALUKU UTARA SULA ISLANDS, NORTH MALUKU<br>AWAL ABAD KE-20 EARLY 20TH CENTURY<br>PELEPAH PANDAN, KATUN, BATANG ANGGREK<br>PANDAN LEAF SHEATH, COTTON, ORCHID STEM<br>NO. INV. 17380</p><br/><p>Pekinangan adalah wadah untuk menaruh bahan-bahan<br>menginang. Menginang merupakan kebiasaan mengunyah<br>paduan antara sirih, pinang, dan kapur sirih. Sirih pinang<br>juga digunakan untuk mengobati sakit perut, luka,<br>pembengkakan, dan sakit karena dirasuk roh jahat.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALPEKINANGAN17380LOW-id.mp3"
+}, {
+    "id": "ef1bf646-7d7b-498e-bf35-99c2e5e9a5c1",
+    "annotationId": "ad124649-e83f-4aa4-8bd3-aeff2a1eec41",
+    "language": "EN",
+    "title": "Pekinangan",
+    "description": "<p>KEPULAUAN SULA, MALUKU UTARA SULA ISLANDS, NORTH MALUKU<br>AWAL ABAD KE-20 EARLY 20TH CENTURY<br>PELEPAH PANDAN, KATUN, BATANG ANGGREK<br>PANDAN LEAF SHEATH, COTTON, ORCHID STEM<br>NO. INV. 17380</p><br/><p>Pekinangan is a container for placing ingredients for<br>chewing betel. Chewing betel is a custom involving a<br>blend of betel leaves, areca nuts, and lime. Betel nuts<br>are also used to treat stomach aches, wounds,<br>swellings, and illnesses caused by evil spirits.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALPEKINANGAN17380LOW-en.mp3"
 }]
