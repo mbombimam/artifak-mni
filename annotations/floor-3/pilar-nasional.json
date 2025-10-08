@@ -108,7 +108,7 @@
     "audioUrl": ""
 }, {
     "id": "a043e284-0167-4bbf-aad5-43b57e8de7db",
-    "annotationId": "5797e297-26b0-4083-be3c-6bb54e05161b",
+    "annotationId": "ad124649-e83f-4aa4-8bd3-aeff2a1eec41",
     "language": "ID",
     "title": "Pekinangan",
     "description": "<p>KEPULAUAN SULA, MALUKU UTARA SULA ISLANDS, NORTH MALUKU<br>AWAL ABAD KE-20 EARLY 20TH CENTURY<br>PELEPAH PANDAN, KATUN, BATANG ANGGREK<br>PANDAN LEAF SHEATH, COTTON, ORCHID STEM<br>NO. INV. 17380</p><br/><p>Pekinangan adalah wadah untuk menaruh bahan-bahan<br>menginang. Menginang merupakan kebiasaan mengunyah<br>paduan antara sirih, pinang, dan kapur sirih. Sirih pinang<br>juga digunakan untuk mengobati sakit perut, luka,<br>pembengkakan, dan sakit karena dirasuk roh jahat.</p>",
@@ -117,7 +117,7 @@
     "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALPEKINANGAN17380LOW-id.mp3"
 }, {
     "id": "ef1bf646-7d7b-498e-bf35-99c2e5e9a5c1",
-    "annotationId": "5797e297-26b0-4083-be3c-6bb54e05161b",
+    "annotationId": "ad124649-e83f-4aa4-8bd3-aeff2a1eec41",
     "language": "EN",
     "title": "Pekinangan",
     "description": "<p>KEPULAUAN SULA, MALUKU UTARA SULA ISLANDS, NORTH MALUKU<br>AWAL ABAD KE-20 EARLY 20TH CENTURY<br>PELEPAH PANDAN, KATUN, BATANG ANGGREK<br>PANDAN LEAF SHEATH, COTTON, ORCHID STEM<br>NO. INV. 17380</p><br/><p>Pekinangan is a container for placing ingredients for<br>chewing betel. Chewing betel is a custom involving a<br>blend of betel leaves, areca nuts, and lime. Betel nuts<br>are also used to treat stomach aches, wounds,<br>swellings, and illnesses caused by evil spirits.</p>",
@@ -160,4 +160,40 @@
     "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALLENCANATN003LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALLENCANATN003LOW-en.mp3"
+}, {
+    "id": "8a3f6675-0006-4e34-91e6-ed4d1cbd6230",
+    "annotationId": "5797e297-26b0-4083-be3c-6bb54e05161b",
+    "language": "ID",
+    "title": "Lencana",
+    "description": "<p>PAPUA BARAT WEST PAPUA<br>1969<br>PERUNGGU, TEKSTIL BRONZE, TEXTILE<br>NO. INV. TN 003</p><br/><p>Satya lencana diberikan kepada Warga Negara Indonesia<br>yang telah berjasa dalam pelaksanaan Penentuan<br>Pendapat Rakyat di Irian Barat pada 1969. Lima sudut<br>lencana melambangkan falsafah hidup bangsa Indonesia<br>yang berdasarkan Pancasila.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALLENCANATN003LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALLENCANATN003LOW-id.mp3"
+}, {
+    "id": "025a0c22-e58b-4959-8445-53a6d54c550d",
+    "annotationId": "5797e297-26b0-4083-be3c-6bb54e05161b",
+    "language": "EN",
+    "title": "Badge",
+    "description": "<p>PAPUA BARAT WEST PAPUA<br>1969<br>PERUNGGU, TEKSTIL BRONZE, TEXTILE<br>NO. INV. TN 003</p><br/><p>This Satya Lencana was awarded to Indonesian<br>citizens who contributed to the implementation of<br>the Act of Free Choice in West Papua in 1969. The<br>five points<br>of the badge represent the life philosophy of the<br>Indonesian nation based on Pancasila.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALLENCANATN003LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALLENCANATN003LOW-en.mp3"
+}, {
+    "id": "45fe6cbd-2d7b-4250-abed-6100e309ddd9",
+    "annotationId": "fe3b6e89-de24-444b-84c7-45436cb23f63",
+    "language": "ID",
+    "title": "Kalung Kerang",
+    "description": "<p>TANIMBAR, MALUKU<br />AWAL ABAD KE-19<br />KERANG, ROTAN<br />NO. INV. 3094</p><p>Kalung ini digunakan oleh laki-laki khususnya para tetua<br />dan pemimpin adat, biasanya digunakan bersamaan dengan<br />anting, dan kain tenun sebagai penutup kepala. Kalung ini<br />menggambarkan simbol kegagahan dan keberanian.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW-id.mp3"
+}, {
+    "id": "75d436e2-ba9c-4da0-bb3b-9b5165ecb275",
+    "annotationId": "fe3b6e89-de24-444b-84c7-45436cb23f63",
+    "language": "EN",
+    "title": "Shell Necklace",
+    "description": "<p>TANIMBAR, MALUKU<br />EARLY 19TH CENTURY<br />KERANG, ROTAN<br />NO. INV. 3094</p><p>This necklace is worn by men, especially elders and<br />traditional leaders, usually accompanied by earrings,<br />and a woven cloth as a head cover. This necklace<br />represents a symbol of bravery and courage.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALKALUNGKERANG3094LOW-en.mp3"
 }]
