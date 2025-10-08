@@ -112,7 +112,7 @@
     "language": "ID",
     "title": "Pekinangan",
     "description": "<p>KEPULAUAN SULA, MALUKU UTARA SULA ISLANDS, NORTH MALUKU<br>AWAL ABAD KE-20 EARLY 20TH CENTURY<br>PELEPAH PANDAN, KATUN, BATANG ANGGREK<br>PANDAN LEAF SHEATH, COTTON, ORCHID STEM<br>NO. INV. 17380</p><br/><p>Pekinangan adalah wadah untuk menaruh bahan-bahan<br>menginang. Menginang merupakan kebiasaan mengunyah<br>paduan antara sirih, pinang, dan kapur sirih. Sirih pinang<br>juga digunakan untuk mengobati sakit perut, luka,<br>pembengkakan, dan sakit karena dirasuk roh jahat.</p>",
-    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALPEKINANGAN17380LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALPEKINANGAN17380LOW-id.mp3"
 }, {
@@ -121,7 +121,43 @@
     "language": "EN",
     "title": "Pekinangan",
     "description": "<p>KEPULAUAN SULA, MALUKU UTARA SULA ISLANDS, NORTH MALUKU<br>AWAL ABAD KE-20 EARLY 20TH CENTURY<br>PELEPAH PANDAN, KATUN, BATANG ANGGREK<br>PANDAN LEAF SHEATH, COTTON, ORCHID STEM<br>NO. INV. 17380</p><br/><p>Pekinangan is a container for placing ingredients for<br>chewing betel. Chewing betel is a custom involving a<br>blend of betel leaves, areca nuts, and lime. Betel nuts<br>are also used to treat stomach aches, wounds,<br>swellings, and illnesses caused by evil spirits.</p>",
-    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALPEKINANGAN17380LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALPEKINANGAN17380LOW-en.mp3"
+}, {
+    "id": "bb35d684-58d4-4ae4-85ef-2897a5a284ad",
+    "annotationId": "a51e6825-e86a-4ed5-bb58-a0c8b80fa4fd",
+    "language": "ID",
+    "title": "Wadah",
+    "description": "<p>KALIMANTAN SELATAN SOUTH KALIMANTAN<br>1905<br>TANAH LIAT, ROTAN CLAY, RATTAN<br>NO. INV. 12032</p><br/><p>Wadah terakota digunakan dalam ritual upacara maupun<br>peralatan sehari-hari. Pada bagian luar wadah dihias<br>dengan ragam hias herringbone atau tulang ikan herring.<br>Motif tulang ikan herring memiliki pola bentuk huruf &ldquo;V.&rdquo;</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALWADAH12032LOW-id.mp3"
+}, {
+    "id": "2216af51-c79e-45fd-9955-a92fec72a642",
+    "annotationId": "a51e6825-e86a-4ed5-bb58-a0c8b80fa4fd",
+    "language": "EN",
+    "title": "Container",
+    "description": "<p>KALIMANTAN SELATAN SOUTH KALIMANTAN<br>1905<br>TANAH LIAT, ROTAN CLAY, RATTAN<br>NO. INV. 12032</p><br/><p>Terracotta containers are used in ceremonial rituals and<br>as everyday utensils. The exterior of the container is<br>decorated with herringbone or herring fish bone patterns.<br>The herringbone pattern is shaped like a &rdquo;V&rdquo; letter.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALWADAH12032LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALWADAH12032LOW-en.mp3"
+}, {
+    "id": "03117306-d181-41c7-8c6b-16d9e58c9179",
+    "annotationId": "b65114cc-0e99-43a6-a405-259780b13ceb",
+    "language": "ID",
+    "title": "Lencana",
+    "description": "<p>PAPUA BARAT WEST PAPUA<br>1969<br>PERUNGGU, TEKSTIL BRONZE, TEXTILE<br>NO. INV. TN 003</p><br/><p>Satya lencana diberikan kepada Warga Negara Indonesia<br>yang telah berjasa dalam pelaksanaan Penentuan<br>Pendapat Rakyat di Irian Barat pada 1969. Lima sudut<br>lencana melambangkan falsafah hidup bangsa Indonesia<br>yang berdasarkan Pancasila.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALLENCANATN003LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALLENCANATN003LOW-id.mp3"
+}, {
+    "id": "395c7484-2972-4853-ab23-4703f8ac0bea",
+    "annotationId": "b65114cc-0e99-43a6-a405-259780b13ceb",
+    "language": "EN",
+    "title": "Badge",
+    "description": "<p>PAPUA BARAT WEST PAPUA<br>1969<br>PERUNGGU, TEKSTIL BRONZE, TEXTILE<br>NO. INV. TN 003</p><br/><p>This Satya Lencana was awarded to Indonesian<br>citizens who contributed to the implementation of<br>the Act of Free Choice in West Papua in 1969. The<br>five points<br>of the badge represent the life philosophy of the<br>Indonesian nation based on Pancasila.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALLENCANATN003LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALLENCANATN003LOW-en.mp3"
 }]
