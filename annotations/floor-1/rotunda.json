@@ -4,18 +4,18 @@
     "language": "ID",
     "title": "GANESHA",
     "description": "<p>Candi Banon, Magelang, Jawa Tengah<br>Abad ke-9 Masehi<br>No. Inv. 186b/4845</p><br/><p>Putra Śiwa dan Parwati yang menjadi dewa pengetahuan,<br>menyimbolkan ilmu, kebijaksanaan, dan pengusir rintangan<br>dalam agama Hindu.<br>Nama lainnya adalah Ganapati, Wigneśwara. Pada candi<br>Śaiwa, ia ditempatkan di relung sebelah barat.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT_GANESHA_186B LOW.glb",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_GANESHA_186BLOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT_GANESHA_186B LOW-id.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT_GANESHA_186BLOW-id.mp3"
 }, {
     "id": "06d3d138-89d3-486b-bb2d-abb4e181e839",
     "annotationId": "7aa256fc-5139-43a3-a921-e20a853eb51f",
     "language": "EN",
     "title": "GANESHA",
     "description": "<p>Candi Banon, Magelang, Central Java<br>9th Century CE<br>No. Inv. 186b/4845</p><br/><p>The son of Śiva and Parvati, known as the God of<br>Wisdom in Hinduism, embodies knowledge, wisdom,<br>and one who removes obstacles.<br>Also known as Ganapati, Vigneshwara. In Saiva temples,<br>he is placed in the western niche.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT_GANESHA_186B LOW.glb",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_GANESHA_186BLOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/SS26RT_GANESHA_186B LOWSM103F-id.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT_GANESHA_186BLOW-en.mp3"
 },{
     "id": "6ff679be-214f-45e5-89c2-4bc6e0390f87",
     "annotationId": "820dc0b9-0709-418d-8a55-3a8f19acc445",
@@ -58,18 +58,18 @@
     "language": "ID",
     "title": "PARWATI ARCA PERWUJUDAN",
     "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-14-15 Masehi<br>No. Inv. 126</p><br/><p>Arca seorang ratu/penguasa yang diwujudkan sebagai figur Dewi Parwati,<br>śakti Dewa Śiwa. Sifat sang dewi sangat ideal bagi penguasa bergender<br>perempuan di masa lampau dan relevan hingga kini. Parwati adalah separuh<br>kekuatan Śiwa yang memiliki karakter kuat, tegas, bijaksana, setia, penuh<br>kelembutan, juga cantik dan anggun.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT_PARWATI_126 LOW.glb",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_PARWATI_126LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT_PARWATI_126 LOW-id.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT_PARWATI_126LOW-id.mp3"
 }, {
     "id": "a18f971a-5319-43c1-8bd3-4e75dffcf023",
     "annotationId": "58dd58f9-3725-4733-9e27-e06d2c9e54c1",
     "language": "EN",
     "title": "EMBODIMENT STATUE",
     "description": "<p>Location of discovery unknown<br>14th-15thCentury CE<br>No. Inv. 126</p><br/><p>A statue of a queen/ruler depicted as the figure of a goddess Parvati,<br>the consort of Śiva. The qualities of the goddess are ideal of a female<br>ruler of the past and remain relevant today. Parvati is half of Śiva&rsquo;s<br>power, embodying a firm, wise, lyal nature, as well as beauty and<br>grace.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT_PARWATI_126 LOW.glb",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_PARWATI_126LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT_PARWATI_126 LOW-en.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT_PARWATI_126LOW-en.mp3"
 },{
     "id": "3d2f41bc-e04d-487c-be99-ddfbf0248b67",
     "annotationId": "299e44bd-630b-43d3-8998-efd5a2820aad",
