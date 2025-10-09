@@ -756,20 +756,20 @@
     "audioUrl": "/cdn/static/audio/rotunda/RT07DM148LOW-en.mp3"
 },{
     "id": "c755d8c1-1c21-4706-aad5-790392a43c60",
-    "annotationId": "5c7ba9cc-403a-48a5-b345-f203b7d6cd48",
+    "annotationId": "bff6f714-fa0b-4bad-b9a5-5172c886cbca",
     "language": "ID",
     "title": "ARCA SEORANG RATU",
-    "description": "<p>Bandung, Jawa Barat<br>Abad ke-8-9 Masehi<br>No. Inv. 148</p><br/><p>Śakti (pasangan) Dewa Śiwa dalam aspek krodha. Senjata yang<br>dipegangnya merupakan pemberian para dewa untuk membunuh<br>Asura.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT07DM148LOW.glb",
+    "description": "<p>Jebuk, Tulungagung, Jawa Timur<br>Awal abad ke-15 Masehi<br>No. Inv. 6058</p><br/><p>Arca ini kemungkinan menggambarkan Suhita, seorang ratu<br>yang memerintah Kerajaan Majapahit dari tahun 1429 hingga<br>1447. Sebagai tokoh terkemuka pada masanya, arca ini<br>diduga menggambarkan pentingnya peran Suhita dalam<br>kerajaan.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RTARCASEORANGRATU6058LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT07DM148LOW-id.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RTARCASEORANGRATU6058LOW-id.mp3"
 }, {
     "id": "c189345c-ee4c-4409-a146-ad19068f2355",
-    "annotationId": "5c7ba9cc-403a-48a5-b345-f203b7d6cd48",
+    "annotationId": "bff6f714-fa0b-4bad-b9a5-5172c886cbca",
     "language": "EN",
     "title": "STATUE OF A QUEEN",
-    "description": "<p>Bandung, West Java<br>8th-9th Century CE<br>No. Inv. 148</p><br/><p>Śiva&rsquo;s consort in her wrathful aspect (krodha). The weapons<br>she holds were gifts from the gods to kill the Asura.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT07DM148LOW.glb",
+    "description": "<p>Jebuk, Tulungagung, East Java<br>Early 15th Century CE<br>No. Inv. 6058</p><br/><p>This statue is likely the depiction of Suhita, the Queen<br>of Majapahit who reigned from 1429 to 1447. As a<br>significant historical figure, the statue highlights the<br>important role Suhita played during her time.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RTARCASEORANGRATU6058LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT07DM148LOW-en.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RTARCASEORANGRATU6058LOW-en.mp3"
 }]
