@@ -250,4 +250,41 @@
     "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALTIFA14301LOW-en.mp3"
+},{
+    "id": "f10da6bc-3d56-4654-a4f9-ac80e9db0059",
+    "annotationId": "d8d6519f-70bd-42ce-aa99-e10705a5cef6",
+    "language": "ID",
+    "title": "Pedang",
+    "description": "<p>SIAK, RIAU<br>ABAD KE-20</p><br/><p>EMAS, GADING<br>NO. INV.E.50</p><br/><p>Bentuk dan motif pedang memperlihatkan pengaruh<br>Arab. Simpul pedang dihias motif bulan sabit dan<br>bintang bersudut enam. Hulu memiliki pelindung<br>tangan dihias motif sulur, pangkalnya dihias kepala<br>singa dengan mata berlian.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALPEDANGE50LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALPEDANGE50LOW-id.mp3"
+},{
+    "id": "57225248-19d0-4354-9185-c6408cccda54",
+    "annotationId": "d8d6519f-70bd-42ce-aa99-e10705a5cef6",
+    "language": "EN",
+    "title": "Sword",
+    "description": "<p>SIAK, RIAU<br>20TH&nbsp;CENTURY<br>GOLD, IVORY</p><br/><p>NO. INV.E.50</p><br/><p>The shape and motifs of the sword show Arab<br>influences. The sword knot is decorated with<br>crescent and six- pointed star motifs. The hilt<br>features a hand guard adorned with vine motifs;<br>the base decorated with a lion&rsquo;s head with diamond<br>eyes.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALPEDANGE50LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALPEDANGE50LOW-en.mp3"
+}
+,{
+    "id": "b055fb72-c535-4607-b541-c4124362981a",
+    "annotationId": "cea19b36-ab87-4e8f-9403-a1fc11536ad5",
+    "language": "ID",
+    "title": "Medali",
+    "description": "<p>SIAK, RIAU<br>ABAD KE-20<br>EMAS,BERLIAN&nbsp;<br>NO. INV. 27543/E.27</p><br/><p>Medali berbentuk bintang dan bulan sabit dihias motif<br>daun, burung dan mahkota pada bagian atas medali.<br>Medali dikenakan oleh Sultan dengan posisi pada<br>bagian tengah dada di bawah kerah baju.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALMEDALI27543LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALMEDALI27543LOW-id.mp3"
+},{
+    "id": "55ddff72-c656-4410-a8af-35f43c4cb508",
+    "annotationId": "cea19b36-ab87-4e8f-9403-a1fc11536ad5",
+    "language": "EN",
+    "title": "Medal",
+    "description": "<p>SIAK, RIAU<br>20TH CENTURY<br>GOLD, DIAMOND&nbsp;<br>NO. INV. 27543/E.27</p><br/><p>The medal shaped like a star and crescent is decorated with<br>motifs of leaves, birds, and a crown at the top. It is worn by<br>the Sultan in the middle of the chest under the shirt collar.</p>",
+    "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALMEDALI27543LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALMEDALI27543LOW-en.mp3"
 }]
