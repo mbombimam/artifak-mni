@@ -142,4 +142,94 @@
     "modelUrl": "/cdn/static/glb/selasar-utara/SUGAnesa199Low.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/selasar-utara/SUGAnesa199Low-en.mp3"
+}, {
+    "id": "2eb1b3d5-a1aa-49cb-b571-a48e79b1a625",
+    "annotationId": "4be1b33f-23a4-4012-8962-3c81d2e62ecd",
+    "language": "ID",
+    "title": "SIWA KALA",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-14-15 Masehi<br>No. Inv. 100</p><br/><p>Dewa Penguasa Waktu yang digambarkan seperti raksasa. Kala merupakan simbol bahwa tidak ada yang<br>dapat melawan hukum karma. Apabila telah datang waktunya maka Kala akan menjemputnya secara<br>paksa, siap maupun tidak siap. Persiapkan diri sebaik-baiknya sebelum waktu kita habis di dunia.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUSIWAKALA100Low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUSIWAKALA100Low-id.mp3"
+}, {
+    "id": "2f38cb4b-70b6-431f-b536-a362ba68dc49",
+    "annotationId": "4be1b33f-23a4-4012-8962-3c81d2e62ecd",
+    "language": "EN",
+    "title": "SIWA KALA",
+    "description": "<p>Place of discovery unknown<br>14th-15th Century CE<br>No. Inv. 100</p><br/><p>The God who rules over time, depicted as a giant. Kala symbolizes that no one can escape the<br>law of karma. When the time comes, Kala will take us by force, ready or not. Prepare yourself as<br>best as you can before our time in this world runs out.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUSIWAKALA100Low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUSIWAKALA100Low-en.mp3"
+}, {
+    "id": "b6f12de4-9ee1-4cc1-adf3-babc909709b3",
+    "annotationId": "d7b2a490-76a5-49fe-a4da-136280d4dd92",
+    "language": "ID",
+    "title": "DURGA MAHISASURAMARDINI BERTANGAN DELAPAN",
+    "description": "<p>Ngluyu, Bojonegoro, Jawa Timur<br>Abad ke-14 Masehi<br>No. Inv. 147/D213</p><br/><p>Śakti (pasangan) dewa Śiwa dalam aspek krodha. Sosok kerbau sering ditampilkan bersama sang Durga.<br>Kerbau tersebut menggambarkan Asura &mdash; raksasa jahat yang berhasil dikalahkan oleh Durga dengan<br>senjata yang diberikan oleh para dewa.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUDURGAMAHISASURAMARDINI147LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUDURGAMAHISASURAMARDINI147LOW-id.mp3"
+}, {
+    "id": "9c4f1d38-f3d5-4d90-b79e-a8029062b670",
+    "annotationId": "d7b2a490-76a5-49fe-a4da-136280d4dd92",
+    "language": "EN",
+    "title": "DURGA MAHISASURAMARDINI WITH EIGHT ARMS",
+    "description": "<p>Ngluyu, Bojonegoro, East Java<br>14th Century CE<br>No. Inv. 147/D213</p><br/><p>Śiva&rsquo;s consort in her wrathful aspect (krodha). In depictions of Durga, you will frequently see<br>her alongside a buffalo. This buffalo symbolizes Asura, the evil giant whom Durga defeated<br>using divine weapons bestowed upon her by the Gods.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUDURGAMAHISASURAMARDINI147LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUDURGAMAHISASURAMARDINI147LOW-en.mp3"
+}, {
+    "id": "15af8655-fcc4-403e-92ae-5a841412dc00",
+    "annotationId": "8f96c9d3-9b6e-4221-bb7c-3448fe58f53c",
+    "language": "ID",
+    "title": "SIWA ARCA PERWUJUDAN",
+    "description": "-",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUSIWANDRAARCAPERWUJUDANLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUSIWANDRAARCAPERWUJUDANLOW-id.mp3"
+}, {
+    "id": "e4079f01-af39-4e83-8940-c07d39a6c9e9",
+    "annotationId": "8f96c9d3-9b6e-4221-bb7c-3448fe58f53c",
+    "language": "EN",
+    "title": "SIWA EMBODIMENT STATUE",
+    "description": "-",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUSIWANDRAARCAPERWUJUDANLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUSIWANDRAARCAPERWUJUDANLOW-en.mp3"
+}, {
+    "id": "b6f12de4-9ee1-4cc1-adf3-babc909709b3",
+    "annotationId": "8a454b28-482c-486a-b46f-af4c71cc33cc",
+    "language": "ID",
+    "title": "DURGA MAHISASURAMARDINI BERTANGAN DELAPAN",
+    "description": "<p>Ngluyu, Bojonegoro, Jawa Timur<br>Abad ke-14 Masehi<br>No. Inv. 147/D213</p><br/><p>Śakti (pasangan) dewa Śiwa dalam aspek krodha. Sosok kerbau sering ditampilkan bersama sang Durga.<br>Kerbau tersebut menggambarkan Asura &mdash; raksasa jahat yang berhasil dikalahkan oleh Durga dengan<br>senjata yang diberikan oleh para dewa.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUDURGAMAHISASURAMARDINI147LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUDURGAMAHISASURAMARDINI147LOW-id.mp3"
+}, {
+    "id": "9c4f1d38-f3d5-4d90-b79e-a8029062b670",
+    "annotationId": "8a454b28-482c-486a-b46f-af4c71cc33cc",
+    "language": "EN",
+    "title": "DURGA MAHISASURAMARDINI WITH EIGHT ARMS",
+    "description": "<p>Ngluyu, Bojonegoro, East Java<br>14th Century CE<br>No. Inv. 147/D213</p><br/><p>Śiva&rsquo;s consort in her wrathful aspect (krodha). In depictions of Durga, you will frequently see<br>her alongside a buffalo. This buffalo symbolizes Asura, the evil giant whom Durga defeated<br>using divine weapons bestowed upon her by the Gods.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUDURGAMAHISASURAMARDINI147LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUDURGAMAHISASURAMARDINI147LOW-en.mp3"
+}, {
+    "id": "b3713d14-ceec-4904-99c4-0bc6abfb265f",
+    "annotationId": "adcc7514-7c20-47c4-a564-1b636ebe9641",
+    "language": "ID",
+    "title": "DURGA MAHISASURAMARDINI BERTANGAN DELAPAN",
+    "description": "<p>Reruntuhan candi Singosari, Malang, Jawa Timur<br>Abad ke-13 Masehi<br>No. Inv. 153f/3629<br>&nbsp;<br>Śakti (pasangan) dewa Śiwa dalam aspek krodha. Sosok kerbau sering ditampilkan bersama sang Durga.<br>Kerbau tersebut menggambarkan Asura &mdash; raksasa jahat yang berhasil dikalahkan oleh Durga dengan<br>senjata yang diberikan oleh para dewa.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUDURGAMAHISASURAMARDINI153fLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUDURGAMAHISASURAMARDINI153fLOW-id.mp3"
+}, {
+    "id": "c0a8fa12-c402-4f99-ace1-16e1d58461ab",
+    "annotationId": "adcc7514-7c20-47c4-a564-1b636ebe9641",
+    "language": "EN",
+    "title": "DURGA MAHISASURAMARDINI WITH EIGHT ARMS",
+    "description": "<p>The ruins of Singosari Temple, Malang, East Java<br>13th Century CE<br>No. Inv. 153f/3629<br>&nbsp;<br>Śiva&rsquo;s consort in her wrathful aspect (krodha). In depictions of Durga, you will frequently see<br>her alongside a buffalo. This buffalo symbolizes Asura, the evil giant whom Durga defeated<br>using divine weapons bestowed upon her by the Gods.</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUDURGAMAHISASURAMARDINI153fLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUDURGAMAHISASURAMARDINI153fLOW-en.mp3"
 }]
