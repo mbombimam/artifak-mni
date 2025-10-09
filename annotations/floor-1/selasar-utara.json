@@ -76,7 +76,7 @@
     "language": "ID",
     "title": "PRASASTI AÑJUKLADANG",
     "description": "<p>Candi Lor, Berbek, Nganjuk, Jawa Timur/ East Java<br>Tahun 937 Masehi/ Century CE<br>No. Inv. D59</p><br/><p>Prasasti ini dikeluarkan oleh Śrī Mahārāja Pu Ṣiṇḍok. Isinya mengenai perintah raja Ṣiṇḍok agar<br>sebidang sawah kakaṭikan di A&ntilde;jukladang dijadikan sīma dan dipersembahkan kepada Bhaṭāra. Hal ini<br>merupakan anugrah raja bagi penduduk desa karena telah berjasa ikut memerangi musuh.</p>",
-    "modelUrl": "/cdn/static/glb/selasar-utara/SUARCAPERWUJUDAN299BLOW.glb",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUPRASASTIANJUKLADANGD59LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/selasar-utara/SUPRASASTIANJUKLADANGD59LOW-id.mp3"
 }, {
@@ -85,7 +85,7 @@
     "language": "EN",
     "title": "PRASASTI AÑJUKLADANG",
     "description": "<p>Candi Lor, Berbek, Nganjuk, Jawa Timur/ East Java<br>Tahun 937 Masehi/ Century CE<br>No. Inv. D59</p><br/><p>This inscription was issued by Śrī Mahārāja Pu Ṣiṇḍok. It contains a royal decree from King<br>Ṣiṇḍok to designate a piece of kakaṭikan rice field in A&ntilde;jukladang as sīma (tax-exempt land),<br>to be dedicated to Bhaṭāra. This was a royal reward to the villagers of A&ntilde;jukladang for their<br>service in helping to fight against enemies.</p>",
-    "modelUrl": "/cdn/static/glb/selasar-utara/SUARCAPERWUJUDAN299BLOW.glb",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUPRASASTIANJUKLADANGD59LOW.glb",
     "imgUrl": "",
     "audioUrl": "https://cdn.radiancedields.id//cdn/static/audio/selasar-utara/SUPRASASTIANJUKLADANGD59LOW-en.mp3"
 }, {
@@ -160,6 +160,24 @@
     "modelUrl": "/cdn/static/glb/selasar-utara/SUSIWAKALA100Low.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/selasar-utara/SUSIWAKALA100Low-en.mp3"
+}, {
+    "id": "5db2ce1e-dfef-4863-8a9c-fd86e582b9ad",
+    "annotationId": "d76799b9-c438-4d40-81e5-1f8865bf5221",
+    "language": "ID",
+    "title": "ARCA PERWUJUDAN TOKOH SEBAGAI ŚIWA MAHĀDEWA",
+    "description": "<p>Kediri, Jawa Timur<br>Abad ke-13-14 Masehi<br>No. Inv. 258e/3258<br>Arca seorang raja/penguasa yang diwujudkan sebagai figur dewa Śiwa Mahādewa. Raja adalah penguasa<br>tertinggi yang memiliki keberanian, kekuatan penghancur musuh, kekuasaan, dan pengetahuan.&nbsp;</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUArcaperwujudantokohsebagaisiwamahadewa258eLow.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUArcaperwujudantokohsebagaisiwamahadewa258eLow-id.mp3"
+}, {
+    "id": "f4c33df2-18fa-456c-9a36-16d40db0fdec",
+    "annotationId": "d76799b9-c438-4d40-81e5-1f8865bf5221",
+    "language": "EN",
+    "title": "ŚIWA MAHĀDEWA EMBODIMENT STATUE",
+    "description": "<p>Kediri, East Java<br>13TH-14TH Century CE<br>No. Inv. 258e/3258</p><br/><p>A statue of a king/ruler depicted in the form of the Śiva Mahādeva. The king, as the supreme<br>ruler, embodies courage, the power to destroy enemies, authority, and wisdom</p>",
+    "modelUrl": "/cdn/static/glb/selasar-utara/SUArcaperwujudantokohsebagaisiwamahadewa258eLow.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/selasar-utara/SUArcaperwujudantokohsebagaisiwamahadewa258eLow-en.mp3"
 }, {
     "id": "b6f12de4-9ee1-4cc1-adf3-babc909709b3",
     "annotationId": "d7b2a490-76a5-49fe-a4da-136280d4dd92",
