@@ -222,7 +222,7 @@
     "description": "<p>JAWA TIMUR EAST JAVA<br />ABAD 14 14TH CENTURY<br />LONTAR, KAYU PALM LEAF, WOOD<br />Semboyan Bhinneka Tunggal Ika memiliki arti berbeda-beda<br />tetapi satu juga. Semboyan ini merupakan pernyataan sikap<br />untuk hidup berdampingan dalam perbedaan. Semboyan<br />Bhinneka Tunggal Ika dikutip dari Kitab Sutasoma yakni<br />dari pupuh 139 bait 5.</p>",
     "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW-id"
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW-id.mp3"
 },{
     "id": "f1fe4d42-f38b-4991-b03a-606a1bb492b0",
     "annotationId": "ea2ca35f-d541-4554-9fb7-c21e535c93b2",
@@ -231,7 +231,7 @@
     "description": "<p>JAWA TIMUR EAST JAVA<br />ABAD 14 14TH CENTURY<br />LONTAR, KAYU PALM LEAF, WOOD<br />The motto ”Bhinneka Tunggal Ika” means ”Unity in Diversity.”<br />This slogan is a statement of the attitude to coexist amidst<br />differences and is quoted from the Sutasoma book,<br />pupuh 139, verse 5.</p>",
     "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW-en"
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALREPLIKAKITABSUTASOMALOW-en.mp3"
 },{
     "id": "786319e3-65f9-46d7-8bc6-919c9a5d52e6",
     "annotationId": "2b9d470a-01a9-4b02-b2cb-5fd7886206c8",
@@ -240,7 +240,7 @@
     "description": "<p>PULAU LETI, MALUKU LETI ISLAND, MALUKU<br />AWAL ABAD KE-20 EARLY 20TH CENTURY<br />KAYU, KULIT KAMBING WOOD, GOAT SKIN<br />NO. INV. 14301<br />Tifa merupakan alat musik pengiring pada saat ritual<br />upacara. Tifa juga digunakan oleh kepala desa atau ketua<br />adat untuk menyampaikan pengumuman atau perintah.<br />Tifa ini kemungkinan digunakan untuk ritual keagamaan.</p>",
     "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALTIFA14301LOW-id"
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALTIFA14301LOW-id.mp3"
 },{
     "id": "ea88e10d-c5f2-41b8-ba48-e2d5e1d2aee5",
     "annotationId": "2b9d470a-01a9-4b02-b2cb-5fd7886206c8",
@@ -249,5 +249,5 @@
     "description": "<p>PULAU LETI, MALUKU LETI ISLAND, MALUKU<br />AWAL ABAD KE-20 EARLY 20TH CENTURY<br />KAYU, KULIT KAMBING WOOD, GOAT SKIN<br />NO. INV. 14301<br />Tifa is a musical instrument used during ritual ceremonies.<br />It is also used by village heads or traditional leaders to<br />make announcements or commands. This tifa may<br />have been used for religious rituals.</p>",
     "modelUrl": "/cdn/static/glb/pilar-nasional/PILARNASIONALTIFA14301LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALTIFA14301LOW-en"
+    "audioUrl": "/cdn/static/audio/pilar-nasional/PILARNASIONALTIFA14301LOW-en.mp3"
 }]
