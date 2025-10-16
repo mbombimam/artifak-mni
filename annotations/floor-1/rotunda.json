@@ -92,38 +92,38 @@
     "id": "4a62de87-57f4-4c83-961a-f2856a5ecdad",
     "annotationId": "95cf7248-7cd3-4ef6-96ca-2cdf8fd794fb",
     "language": "ID",
+    "title": "SURYA",
+    "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, Jawa Timur<br>Abad ke-11-13 Masehi<br>No. Inv. 8455<br>&nbsp;<br>Di pagi hari, sang Surya terbit memancarkan cahaya untuk menerangi<br>dunia. Dalam Astadikpalaka &mdash; Surya merupakan sang Dewa Matahari<br>yang melindungi arah timur laut.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT32Surya8455LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT32Surya8455LOW-id.mp3"
+}, {
+    "id": "d21b5267-d179-4901-ba9d-ef369c318039",
+    "annotationId": "95cf7248-7cd3-4ef6-96ca-2cdf8fd794fb",
+    "language": "EN",
+    "title": "SURYA",
+    "description": "<p>Dukuh Sentul, Tiru Village, Gurah, Kediri, East Java<br>11th-13th Century CE<br>No. Inv. 8455<br>&nbsp;<br>The Sun rises each morning, casting its light to brighten the<br>world. In Ashtadikpalaka, the sun embodies the God of Sun,<br>who serves as the protector of the northeast direction.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT32Surya8455LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT32Surya8455LOW-en.mp3"
+},{
+    "id": "71812c4e-a7b0-4623-8c5c-8ee76fcefe87",
+    "annotationId": "5aaa7f96-99f0-4133-b063-3fc61a373315",
+    "language": "ID",
     "title": "CHANDRA",
     "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, Jawa Timur<br>Abad ke-11-13 Masehi<br>No. Inv. 8456</p><br/><p>Chandra, sang Dewa Bulan, dikenal juga sebagai Soma dari teks suci<br>kuno Weda. Nama Chandra memiliki arti terang dan bersinar.</p>",
     "modelUrl": "/cdn/static/glb/rotunda/RT05CHANDRA8456LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT05CHANDRA8456LOW-id.mp3"
 }, {
-    "id": "d21b5267-d179-4901-ba9d-ef369c318039",
-    "annotationId": "95cf7248-7cd3-4ef6-96ca-2cdf8fd794fb",
-    "language": "EN",
-    "title": "CHANDRA",
-    "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, &nbsp;East Java<br>Abad ke-11th-13th Century CE<br>No. Inv. 8456</p><br/><p>Chandra, the Moon God, is also known as Soma from the<br>ancient sacred texts of the Vedas. The name Chandra means<br>bright and shining.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT05CHANDRA8456LOW.glb",
-    "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT05CHANDRA8456LOW-en.mp3"
-},{
-    "id": "71812c4e-a7b0-4623-8c5c-8ee76fcefe87",
-    "annotationId": "5aaa7f96-99f0-4133-b063-3fc61a373315",
-    "language": "ID",
-    "title": "KALI",
-    "description": "<p>Semarang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 154</p><br/><p>Dewi Durga kerap hadir dalam berbagai wujud. Salah satunya sebagai<br>Kali &mdash; dewi yang dipuja oleh penganut ajaran Hindu Tantra.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT15KALI154LOW.glb",
-    "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT15KALI154LOW-id.mp3"
-}, {
     "id": "66a83479-e06b-46db-86b7-f22df698dbf9",
     "annotationId": "5aaa7f96-99f0-4133-b063-3fc61a373315",
     "language": "EN",
-    "title": "KALI",
-    "description": "<p>Semarang, Central Java<br>8th - 9th Century CE<br>No. Inv. 154</p><br/><p>Durga the Goddess is known to manifest in many forms, one of<br>which is Kali, a revered figure among Tantric Hindus.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT15KALI154LOW.glb",
+    "title": "CHANDRA",
+    "description": "<p>Dukuh Sentul, Tiru Village, Gurah, Kediri, East Java<br>11th-13th Century CE<br>No. Inv. 8456</p><br/><p>Chandra, the Moon God, is also known as Soma from the<br>ancient sacred texts of the Vedas. The name Chandra means<br>bright and shining.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT05CHANDRA8456LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT15KALI154LOW-en.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT05CHANDRA8456LOW-en.mp3"
 },{
     "id": "a8599576-8942-4d9e-96a3-abf691ba49d3",
     "annotationId": "4f4c8437-cec4-411b-8983-d97f0afc33ad",
@@ -198,7 +198,7 @@
     "audioUrl": "/cdn/static/audio/rotunda/RT16KALI154ALOW-en.mp3"
 },{
     "id": "f1dd0f01-d4a4-499d-9108-bf321685eed4",
-    "annotationId": "",
+    "annotationId": "b2b5098a-5917-42ff-8be1-5d82c18c26a8",
     "language": "ID",
     "title": "KUWERA",
     "description": "<p>D.I. Yogyakarta<br>Abad ke-9 Masehi<br>No. Inv. 207</p><br/><p>Dewa kekayaan dan kemakmuran, pelindung mata angin utara<br>dalam Astadikpalaka, memberikan perlindungan atas<br>kemakmuran dan pemeliharaan kelimpahan.</p>",
@@ -206,8 +206,8 @@
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT_KUWERA_207LOW-id.mp3"
 }, {
-    "id": "f1dd0f01-d4a4-499d-9108-bf321685eed4",
-    "annotationId": "",
+    "id": "4b9da620-fc2a-413f-a1f1-b43a3132201a",
+    "annotationId": "b2b5098a-5917-42ff-8be1-5d82c18c26a8",
     "language": "EN",
     "title": "KUWERA",
     "description": "<p>D.I. Yogyakarta<br>9th Century CE<br>No. Inv. 207</p><br/><p>The God of Wealth, the protector of the north direction in<br>Ashtadikpalaka, offers protection for prosperity and ensures<br>the flow of abundance.</p>",
