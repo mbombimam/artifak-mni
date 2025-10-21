@@ -90,6 +90,24 @@
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT10GANESHA199FLOW-en.mp3"
 },{
+    "id": "4a62de87-57f4-4c83-961a-f2856a5ecdad",
+    "annotationId": "95cf7248-7cd3-4ef6-96ca-2cdf8fd794fb",
+    "language": "ID",
+    "title": "SURYA",
+    "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, Jawa Timur<br>Abad ke-11-13 Masehi<br>No. Inv. 8455<br>Di pagi hari, sang Surya terbit memancarkan cahaya untuk menerangi&nbsp;dunia. Dalam Astadikpalaka &mdash; Surya merupakan sang Dewa Matahari&nbsp;yang melindungi arah timur laut.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT32Surya8455LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT32Surya8455LOW-id.mp3"
+}, {
+    "id": "d21b5267-d179-4901-ba9d-ef369c318039",
+    "annotationId": "95cf7248-7cd3-4ef6-96ca-2cdf8fd794fb",
+    "language": "EN",
+    "title": "SURYA",
+    "description": "<p>Dukuh Sentul, Tiru Village, Gurah, Kediri, East Java<br>11th-13th Century CE<br>No. Inv. 8455<br>The Sun rises each morning, casting its light to brighten the&nbsp;world. In Ashtadikpalaka, the sun embodies the God of Sun,&nbsp;who serves as the protector of the northeast direction.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT32Surya8455LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT32Surya8455LOW-en.mp3"
+},{
     "id": "71812c4e-a7b0-4623-8c5c-8ee76fcefe87",
     "annotationId": "5aaa7f96-99f0-4133-b063-3fc61a373315",
     "language": "ID",
@@ -215,5 +233,401 @@
     "modelUrl": "/cdn/static/glb/rotunda/RT_KUWERA_207LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT_KUWERA_207LOW-en.mp3"
+},{
+    "id": "cacaead4-5a01-481e-8a03-901322d69322",
+    "annotationId": "0fb00449-28cf-47fd-b9c3-f28d90a703a8",
+    "language": "ID",
+    "title": "PARWATI SEBAGAI ARCA PERWUJUDAN",
+    "description": "<p>Tugurejo, Kediri, Jawa Timur<br>Abad ke-14-15 Masehi<br>No. Inv. 6839<br>Arca seorang ratu/penguasa Majapahit yang diwujudkan sebagai figur dewi&nbsp;Parwati, śakti Dewa Śiwa. Sifat sang dewi sangat ideal bagi penguasa&nbsp;bergender perempuan di masa lampau yang relevan hingga kini. Parwati adalah&nbsp;separuh kekuatan Śiwa yang memiliki karakter tegas, bijaksana, setia, penuh&nbsp;kelembutan, juga cantik dan anggun.&nbsp;</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT24Parwati6839LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT24Parwati6839LOW-id.mp3"
+},{
+    "id": "52603bd1-6357-464a-83e0-5c61d5a6c4cf",
+    "annotationId": "0fb00449-28cf-47fd-b9c3-f28d90a703a8",
+    "language": "EN",
+    "title": "PARWATI EMBODIMENT STATUE",
+    "description": "<p>Tugurejo, Kediri, East Java<br>14th - 15th Century CE<br>No. Inv. 6839<br>A statue of a queen/ruler depicted as the figure of a goddess Parvati,&nbsp;the consort of Śiva. The qualities of the goddess are ideal of a female&nbsp;ruler of the past and remain relevant today. Parvati is half of Śiva&rsquo;s&nbsp;power, embodying a firm, wise, lyal nature, as well as beauty and grace.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT24Parwati6839LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT24Parwati6839LOW-en.mp3"
+},{
+    "id": "b9cf09e2-55f6-41b9-8c36-c0905a773ba6",
+    "annotationId": "55908827-7775-4155-b82b-63eed6787642",
+    "language": "ID",
+    "title": "DEWI ARCA PERWUJUDAN",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-14-15 Masehi<br>No. Inv. 288<br>Arca seorang ratu/ penguasa yang diwujudkan sebagai figur dewata dengan&nbsp;prabhamandala &mdash; sebuah ornamen perlambangan kesucian di sekitar kepala.&nbsp;Arca ini juga mengenakan mahkota menyerupai kain &mdash; sebuah bentuk yang&nbsp;kerap dijumpai oleh Dewi Kunti, ibu dari para Pandawa.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT06DAP288LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT06DAP288LOW-id.mp3"
+}, {
+    "id": "ffa1d3da-8100-4ea2-800c-e240ffda0ca9",
+    "annotationId": "55908827-7775-4155-b82b-63eed6787642",
+    "language": "EN",
+    "title": "DEWI EMBODIMENT STATUE",
+    "description": "<p>Location unknown<br>14th-15th Century CE<br>No. Inv. 288<br>This statue displays a prabhamandala - an ornament symbolizing purity&nbsp;around the head. She is also depicted wearing a crown made of cloth, a&nbsp;form often seen by Goddess Kunti, the mother of the Pandavas.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT06DAP288LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT06DAP288LOW-en.mp3"
+},{
+    "id": "15f6a8d2-0ef5-4899-a346-5d93c07369ab",
+    "annotationId": "e56db903-0d74-480a-bc9f-76f46fbd9deb",
+    "language": "ID",
+    "title": "PARWATI SEBAGAI ARCA PERWUJUDAN",
+    "description": "<p>Tugurejo, Kediri, Jawa Timur<br>Abad ke-14-15 Masehi<br>No. Inv. 6839<br>&nbsp;<br>Arca seorang ratu/penguasa Majapahit yang diwujudkan sebagai figur dewi<br>Parwati, śakti Dewa Śiwa. Sifat sang dewi sangat ideal bagi penguasa<br>bergender perempuan di masa lampau yang relevan hingga kini. Parwati adalah<br>separuh kekuatan Śiwa yang memiliki karakter tegas, bijaksana, setia, penuh<br>kelembutan, juga cantik dan anggun.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT24Parwati6839LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT24Parwati6839LOW-id.mp3"
+}, {
+    "id": "9f305c88-b97e-49cb-b7e0-d1260151564f",
+    "annotationId": "e56db903-0d74-480a-bc9f-76f46fbd9deb",
+    "language": "EN",
+    "title": "PARWATI EMBODIMENT STATUE",
+    "description": "<p>Tugurejo, Kediri, East Java<br>14th-15th Century CE<br>No. Inv. 6839</p><br/><p>A statue of a queen/ruler depicted as the figure of a goddess Parvati,<br>the consort of Śiva. The qualities of the goddess are ideal of a female<br>ruler of the past and remain relevant today. Parvati is half of Śiva&rsquo;s<br>power, embodying a firm, wise, lyal nature, as well as beauty and grace.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT24Parwati6839LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT24Parwati6839LOW-en.mp3"
+},{
+    "id": "e62f78ca-3ec7-4cb1-adc0-43d21dd14521",
+    "annotationId": "31bbf1ef-b6d6-4974-99f7-fc290449695d",
+    "language": "ID",
+    "title": "ŚIWA MAHĀDEWA ARCA PERWUJUDAN",
+    "description": "<p>Mojokerto, Jawa Timur<br>Abad ke-14-15 Masehi<br>No. Inv. 38<br>Arca seorang raja/penguasa Majapahit yang diwujudkan sebagai figur&nbsp;Dewa Śiwa Mahādewa. Raja adalah penguasa tertinggi yang memiliki&nbsp;keberanian, kekuatan penghancur musuh, kekuasaan, dan&nbsp;pengetahuan.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-SMAP38-LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-SMAP38-LOW-id.mp3"
+}, {
+    "id": "d72337ec-92cb-48a2-aacf-424f31d23298",
+    "annotationId": "31bbf1ef-b6d6-4974-99f7-fc290449695d",
+    "language": "EN",
+    "title": "ŚIWA MAHĀDEWA EMBODIMENT STATUE",
+    "description": "<p><br>Mojokerto, East Java<br>14th-15th Century CE<br>No. Inv. 38<br>A statue of a king/ruler depicted as the figure of the god Śiva&nbsp;Mahādeva. The King is the supreme ruler, embodying courage,&nbsp;the power to destroy enemies, authority, and knowledge.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-SMAP38-LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-SMAP38-LOW-en.mp3"
+},{
+    "id": "12abb555-8c13-4e40-beab-29de7f43ed55",
+    "annotationId": "ini diganti",
+    "language": "ID",
+    "title": "WIṢṆU",
+    "description": "<p>Pucang, Candirejo, Magelang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 5506<br>Salah satu dewa tertinggi yang menjaga keseimbangan alam&nbsp;semesta. Perannya hadir untuk memulihkan ketertiban dan&nbsp;menegakkan kebenaran, memastikan siklus alam semesta tetap&nbsp;harmonis terjaga.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT34Wisnu5506LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT34Wisnu5506LOW-id.mp3"
+}, {
+    "id": "2ac8e771-a7ff-4d2e-867f-cda7d5e008d1",
+    "annotationId": "ini dganti",
+    "language": "EN",
+    "title": "WIṢṆU",
+    "description": "<p>Pucang, Candirejo, Magelang, Central Java<br>8th - 9th Century CE<br>No. Inv. 5506<br>One of the supreme gods who maintains the balance of the&nbsp;universe. His roles is to restore order and uphold truth,&nbsp;ensuring the cosmic cycle remains harmoniously preserved.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT34Wisnu5506LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT34Wisnu5506LOW-en.mp3"
+},{
+    "id": "a224071d-9d31-49e9-a9ca-619648e71798",
+    "annotationId": "f65ab72a-921e-4c92-a9f0-cf072ebef036",
+    "language": "ID",
+    "title": "AGNI",
+    "description": "<p>Candirejo, Magelang, Jawa Tengah<br>Abad ke8-9 Masehi<br>No. Inv. 5510<br>Sang Dewa Api Agni menjembatani alam duniawi dan surgawi melalui&nbsp;ritual dan upacara. Agni melambangkan kekuatan api yang&nbsp;menghancurkan namun juga dimaknai sebagai simbol pemurnian.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT02AGNI5510LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT02AGNI5510LOW-id.mp3"
+}, {
+    "id": "6eacd822-8c48-4826-83a5-bd57ed0aa1eb",
+    "annotationId": "f65ab72a-921e-4c92-a9f0-cf072ebef036",
+    "language": "EN",
+    "title": "AGNI",
+    "description": "<p>Candirejo, Magelang, Central Java<br>8th-9th Century CE<br>No. Inv. 5510<br>Agni, the God of Fire, serves as a sacred link between the&nbsp;earthly and divine realms through rituals and ceremonies. While&nbsp;Agni embodies the destructive force of fire, he is equally&nbsp;revered as a symbol of purification.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT02AGNI5510LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT02AGNI5510LOW-en.mp3"
+},{
+    "id": "a8c7d963-9dd4-49a3-9806-f644f46d6ba5",
+    "annotationId": "bcd785b0-459e-4191-b158-9fad48ae597a",
+    "language": "ID",
+    "title": "KADEYAN",
+    "description": "<p>Desa Grogol, Sidoarjo, Jawa Timur<br>Abad ke-14 - 15 Masehi<br>No. Inv. 310b/2975<br>Dalam cerita Panji dari kerajaan Majapahit, Kadeyan digambarkan&nbsp;sebagai pendamping setia Raden Panji Inu Kertapati. Cerita-cerita ini&nbsp;menekankan kesetiaan Kadeyan dan petualangan yang ia lalui&nbsp;bersama Panji.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Kadean310b-Low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Kadean310b-Low-id.mp3"
+}, {
+    "id": "839f3fa9-2513-4491-883e-a42b2e770a5b",
+    "annotationId": "bcd785b0-459e-4191-b158-9fad48ae597a",
+    "language": "EN",
+    "title": "KADEYAN",
+    "description": "<p>Desa Grogol, Sidoarjo, East Java<br>14th - 15th Century CE<br>No. Inv. 310b/2975<br>In Panji tales from Majapahit kingdom, Kadeyan is depicted as&nbsp;the steadfast companion of Raden Panji Inu Kertapati. These&nbsp;stories highlight Kadeyan's unwavering loyalty and the various&nbsp;adventures he shares with Panji.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Kadean310b-Low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Kadean310b-Low-en.mp3"
+},{
+    "id": "892ce713-5585-4b80-80ac-2ddbc5d0ae82",
+    "annotationId": "192e29f4-7d11-4935-8666-e045eecb5980",
+    "language": "ID",
+    "title": "KADEYAN",
+    "description": "<p>Desa Grogol, Sidoarjo, Jawa Timur<br>Abad ke-14 - 15 Masehi<br>No. Inv. 310b/2975<br>Dalam cerita Panji dari kerajaan Majapahit, Kadeyan digambarkan&nbsp;sebagai pendamping setia Raden Panji Inu Kertapati. Cerita-cerita ini&nbsp;menekankan kesetiaan Kadeyan dan petualangan yang ia lalui&nbsp;bersama Panji.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Kadean310d-low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Kadean310d-low-id.mp3"
+}, {
+    "id": "7547e4e0-bfd1-4d48-911d-91df5054804e",
+    "annotationId": "192e29f4-7d11-4935-8666-e045eecb5980",
+    "language": "EN",
+    "title": "KADEYAN",
+    "description": "<p>Desa Grogol, Sidoarjo, East Java<br>14th - 15th Century CE<br>No. Inv. 310b/2975<br>In Panji tales from Majapahit kingdom, Kadeyan is depicted asthe steadfast companion of Raden Panji Inu Kertapati. These&nbsp;stories highlight Kadeyan's unwavering loyalty and the various&nbsp;adventures he shares with Panji.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Kadean310d-low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Kadean310d-low-en.mp3"
+},{
+    "id": "c61f8507-1748-4934-aec9-0b7a3cfa4f88",
+    "annotationId": "e1b82aa6-8460-42af-8e5b-ec966365d4b3",
+    "language": "ID",
+    "title": "KERTOLO",
+    "description": "<p>Jawa Timur<br>Abad ke-14-15 Masehi<br>No. Inv. 310d/5136<br>Kertolo adalah kakak dari Panji Kudawanengpati, sesama putra Raja&nbsp;Jenggala, namun lain ibu. Ia dikenal karena kekuatan dan&nbsp;kesetiaannya. Kisahnya sering dibandingkan dengan Bima, seorang&nbsp;pahlawan dari kasha Mahabharata yang terkenal karena kekuatan dan&nbsp;dedikasinya.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Kertolo310d_low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Kertolo310d_low-id.mp3"
+}, {
+    "id": "91a0777c-2a8b-4677-b51e-ec5aa73b3e4e",
+    "annotationId": "e1b82aa6-8460-42af-8e5b-ec966365d4b3",
+    "language": "EN",
+    "title": "KERTOLO",
+    "description": "<p>East Java<br>14th-15th Century CE<br>No. Inv. 310d/5136<br>Kertolo is the half-brother of Panji Kudawanengpati, son of King&nbsp;Jenggala. He is known for his strength and loyalty. His story is&nbsp;often compared to Bima, a hero known In the Mahabharata&nbsp;story, for his strength and dedication.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Kertolo310d_low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Kertolo310d_low-en.mp3"
+},{
+    "id": "da31c0c1-6717-4113-a532-1087ca22e3f8",
+    "annotationId": "1a4be4ec-55df-40ec-96a5-43c222d0711c",
+    "language": "ID",
+    "title": "BIMA",
+    "description": "<p>Jawa Timur<br>Abad ke-14-15 Masehi<br>No. Inv. 286b/2776<br>Dalam cerita pewayangan Mahabharata, Bima adalah putra kedua&nbsp;Pandudewanata. Ia dikenal sebagai sosok yang telah mencapai&nbsp;kesempurnaan hidup. Kekuatannya yang dahsyat dan dedikasinya&nbsp;telah diakui, menjadikan Bima sebagai pahlawan yang telah mencapai&nbsp;puncak keunggulan spiritual dan moral.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Bima286blow.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Bima286blow-id.mp3"
+}, {
+    "id": "a0e2e67e-7723-4df5-9284-f57e4dd8a828",
+    "annotationId": "1a4be4ec-55df-40ec-96a5-43c222d0711c",
+    "language": "EN",
+    "title": "BIMA",
+    "description": "<p>East Java<br>14th-15th Century CE<br>No. Inv. 286b/2776<br>In the Javanese puppet stories (wayang) Mahabharata, Bhima is&nbsp;the second son of Pandudewanata. He is known as a figure who&nbsp;has achieved spiritual perfection. Celebrated for his immense&nbsp;strength and unwavering dedication, he stands as a hero who&nbsp;has achieved the highest levels of spiritual and moral excellence.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Bima286blow.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Bima286blow-en.mp3"
+},{
+    "id": "10a8a348-3a41-470c-a1b2-2b962839f31e",
+    "annotationId": "dcfe6c1c-40d1-4ea5-946e-15a6960d5d1e",
+    "language": "ID",
+    "title": "RELIEF PENARI BERKEPALA LEMBU",
+    "description": "<p>Pulo, Padang Lawas, Sumatra Utara<br>Abad ke-13-14 Masehi<br>No. Inv. 6123<br>Tubuhnya bergerak dinamis dalam tarian. Tapi lihatlah lebih dekat,&nbsp;sosok ini berkepala lembu. Menurut Anda, apakah Ia figur mitologi&nbsp;yang bergembira? Atau memakai topeng sebagai pelengkap&nbsp;pertunjukannya?</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-RPBL6123-low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-RPBL6123-low-id.mp3"
+}, {
+    "id": "b70a4820-6a67-41c9-b8fa-433ffcfcc0f0",
+    "annotationId": "dcfe6c1c-40d1-4ea5-946e-15a6960d5d1e",
+    "language": "EN",
+    "title": "RELIEF OF A DANCER WITH A BULL'S HEAD",
+    "description": "<p>Pulo, Padang Lawas, North Sumatra<br>13th-14th Century CE<br>No. Inv. 6123<br>The dancer flows with dynamic grace, captured in a dance&nbsp;movement. Yet, upon closer inspection, this figure features a&nbsp;bull's head. Are they a mythological being embodying joyous&nbsp;moments, or simply a dancer adorned with a mask to enhance&nbsp;the performance?</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-RPBL6123-low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-RPBL6123-low-en.mp3"
+},{
+    "id": "f3dfd52e-4ff3-4fca-a9fa-8b6599d6e730",
+    "annotationId": "6ac21d54-64dd-4b57-8dbc-81121be0d7b8",
+    "language": "ID",
+    "title": "RELIEF PENARI BERKEPALA LEMBU",
+    "description": "<p>Pulo, Padang Lawas, Sumatra Utara<br>Abad ke-13-14 Masehi/<br>No. Inv. 6121<br>Patung berkepala gajah ini digambarkan dalam pose tarian yang&nbsp;dinamis, dan memiliki konteks asal yang sama dengan patung Buddha&nbsp;Bhairawa monumental yang dapat Anda temukan di Rotunda ini.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT25RPBG6121LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT25RPBG6121LOW-id.mp3"
+}, {
+    "id": "3740687d-c0f6-400e-b985-c873e3e6af61",
+    "annotationId": "6ac21d54-64dd-4b57-8dbc-81121be0d7b8",
+    "language": "EN",
+    "title": "RELIEF OF A DANCER WITH A BULL'S HEAD",
+    "description": "<p>Pulo, Padang Lawas, North Sumatra<br>13th - 14th Century CE<br>No. Inv. 6121 <br>This elephant-headed statue, captured in a dynamic dance<br>pose, was discovered in North Sumatra, sharing its origins with<br>the monumental Bhairawa Buddha statues you can find in this<br>Rotunda.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT25RPBG6121LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT25RPBG6121LOW-en.mp3"
+},{
+    "id": "47f25f82-d346-4161-a2fc-5e1f1f4cddef",
+    "annotationId": "24fc07d6-1643-4d4b-a2dc-3d6e07a9d0d0",
+    "language": "ID",
+    "title": "BARUNA",
+    "description": "<p>Candirejo, Magelang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 5513<br>Baruna adalah sang Dewa Air yang berkuasa atas lautan dan&nbsp;samudra, juga menguasai arah barat. Ia menunggangi Makara, seekor&nbsp;binatang laut mistik berbelalai.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT03BARUNA5513LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT03BARUNA5513LOW-id.mp3"
+}, {
+    "id": "1d60565a-f705-4609-8b11-d184fe3c3c6c",
+    "annotationId": "24fc07d6-1643-4d4b-a2dc-3d6e07a9d0d0",
+    "language": "EN",
+    "title": "BARUNA",
+    "description": "<p>Candirejo, Magelang, Central Java<br>8th - 9th Century CE<br>No. Inv. 5513<br>Varuna, the God of Water, rules the seas and oceans and&nbsp;controls the west direction. He is often depicted riding a&nbsp;Makara, a mythical sea creature with a trunk-like snout.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT03BARUNA5513LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT03BARUNA5513LOW-en.mp3"
+},{
+    "id": "1ab3ba15-d50c-480c-bae5-b096e393247a",
+    "annotationId": "37a80032-21f7-4edf-a17f-f0b24cfeb3b7",
+    "language": "ID",
+    "title": "WIṢṆU",
+    "description": "<p>Pucang, Candirejo, Magelang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 5506<br>Salah satu dewa tertinggi yang menjaga keseimbangan alam&nbsp;semesta. Perannya hadir untuk memulihkan ketertiban dan&nbsp;menegakkan kebenaran, memastikan siklus alam semesta tetap&nbsp;harmonis terjaga.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT34Wisnu5506LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT34Wisnu5506LOW-id.mp3"
+},{
+    "id": "b52c5360-5b84-4fa6-94ae-53f7eb77e1bc",
+    "annotationId": "37a80032-21f7-4edf-a17f-f0b24cfeb3b7",
+    "language": "EN",
+    "title": "WIṢṆU",
+    "description": "<p>Pucang, Candirejo, Magelang, Central Java<br>8th - 9th Century CE<br>No. Inv. 5506<br>One of the supreme gods who maintains the balance of the&nbsp;universe. His roles is to restore order and uphold truth,&nbsp;ensuring the cosmic cycle remains harmoniously preserved.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT34Wisnu5506LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT34Wisnu5506LOW-en.mp3"
+},{
+    "id": "ac3c0eea-b42b-4e4f-979a-089121997213",
+    "annotationId": "b4222918-9cbc-49e5-b23a-a9d860589e94",
+    "language": "ID",
+    "title": "ŚIWA TRISIRAH",
+    "description": "<p>Magelang, Kedu, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 4&nbsp;</p><br/><p>Dewa Śiwa dengan tiga kepala yang mewakili kekuatan pencipta,<br>pemelihara, dan penghancur. Dapatkah Anda menerka wajah mana<br>yang melambangkan masing-masing kekuatannya?</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT31ST4LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT31ST4LOW-id.mp3"
+},{
+    "id": "ce635664-ae40-4d66-9175-b2b7e46a73b7",
+    "annotationId": "b4222918-9cbc-49e5-b23a-a9d860589e94",
+    "language": "EN",
+    "title": "ŚIWA TRISIRAH",
+    "description": "<p>Magelang, Kedu, Central Java<br>8th - 9th&nbsp; Century CE<br>No. Inv. 4</p><br/><p>The three faces of Śiva Trishira, the God: the creator, the<br>preserver, and the destroyer. Can you guess which face<br>represents each divine strength?</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT31ST4LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT31ST4LOW-en.mp3"
+},{
+    "id": "6fd800cc-5cb7-44d2-a391-03d211a06942",
+    "annotationId": "26f6ad3c-a8e8-4779-99cb-934e55d523d9",
+    "language": "ID",
+    "title": "BRAHMA masih salah 1",
+    "description": "<p>Candirejo, Magelang, Jawa Tengah<br>Abad ke-8-9 Masehi<br>No. Inv. 5509</p><br/><p>Dalam ajaran Hindu, Yama adalah dewa kematian yang akan<br>membimbing jiwa menuju alam baka dan menjadi penjaga arah<br>selatan. Sebuah tali pengikat bernama pāśa (jerat) kerap muncul di<br>setiap arcanya &mdash; menyimbolkan perannya di perjalanan suci ini.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT35Yama5509LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT35Yama5509LOW-id.mp3"
+},{
+    "id": "dbcbb22c-db2c-464c-9d40-3531e26c8539",
+    "annotationId": "26f6ad3c-a8e8-4779-99cb-934e55d523d9",
+    "language": "EN",
+    "title": "BRAHMA masih salah 1",
+    "description": "<p>Candirejo, Magelang, Central Java<br>8th-9th Century CE<br>No. Inv. 5509</p><br/><p>In Hinduism, Yama is the God of Death, responsible for guiding<br>souls to their afterlife and is the guardian of the southern<br>direction. Statues of Yama often feature a noose called pāśa,<br>symbolizing his role in this sacred journey.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT35Yama5509LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT35Yama5509LOW-en.mp3"
+},{
+    "id": "a024e153-c352-4404-8cf3-2dee6ea19d11",
+    "annotationId": "de10fcea-69ec-44b0-ab04-1db9521428c5",
+    "language": "ID",
+    "title": "NIRRTI",
+    "description": "<p>Candirejo, Magelang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 5514<br>Dewa penjaga arah barat daya, personifikasi dari pelapukan, duka,&nbsp;dan kematian. Nirrti digambarkan sebagai sosok yang menakutkan&nbsp;dengan berbagai senjata di sekitarnya: lembing, perisai, gada dan&nbsp;juga pedang.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT23Nirrti5514LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT23Nirrti5514LOW-id.mp3"
+}, {
+    "id": "1c2034bb-724f-4f2f-9df1-ebaa62e112ca",
+    "annotationId": "de10fcea-69ec-44b0-ab04-1db9521428c5",
+    "language": "EN",
+    "title": "NIRRTI",
+    "description": "<p>Candirejo, Magelang, Central Java<br>8th - 9th Century CE<br>No. Inv. 5514<br>The God guarding the southwest direction, personifying decay, sorrow, and death. Nirrti is portrayed as a fearsome figure, surrounded by an array of weapons&mdash;javelin, shield, mace and sword.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT23Nirrti5514LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT23Nirrti5514LOW-en.mp3"
+},{
+    "id": "7eb5d263-fd70-4043-af38-df3fb6729633",
+    "annotationId": "92da4183-a1e8-4b32-991c-5f202470badd",
+    "language": "ID",
+    "title": "AGASTYA",
+    "description": "<p>Ngupit, Klaten, Jawa Tengah<br>Abad ke- 8 Masehi<br>No. Inv. 60a/4310<br>Agastya menyebarkan agama Hindu hingga melintasi lautan dan&nbsp;menempatkannya menjadi seorang rohaniwan agung. Dapatkah Anda&nbsp;membayangkan diri Anda menyeberangi samudra untuk&nbsp;menyampaikan sebuah pesan?</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_AGASTYA_60ALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_AGASTYA_60ALOW-id.mp3"
+}, {
+    "id": "44967da5-91d2-4446-a76a-0f3fc15696a9",
+    "annotationId": "92da4183-a1e8-4b32-991c-5f202470badd",
+    "language": "EN",
+    "title": "AGASTYA",
+    "description": "<p>Ngupit, Klaten, Central Java<br>8th Century CE<br>No. Inv. 60a/4310<br>Agastya spread Hinduism across the ocean and made it a greatspiritual leader. Can you imagine yourself crossing the ocean to&nbsp;deliver a message to a faraway land?</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_AGASTYA_60ALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_AGASTYA_60ALOW-en.mp3"
+},{
+    "id": "cacd7266-0258-4ec6-a2b2-60ec3d1604c5",
+    "annotationId": "e9a42b38-a797-4bd0-b6c5-bc933e8844fd",
+    "language": "ID",
+    "title": "NANDIŚWARA",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-8-9 Masehi<br>No. Inv. 52<br>Nandiśwara adalah pancaran Śiwa yang diberi anugrah sebagai&nbsp;penjaga gunung Kailasa. Nandiśwara membawa senjata triśula&nbsp;ditempatkan di pintu masuk sebelah kanan candi Śaiwa.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT21Nandiswara52Low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT21Nandiswara52Low-id.mp3"
+}, {
+    "id": "4f25ed68-7771-4c67-bdf6-5fc0c815423b",
+    "annotationId": "e9a42b38-a797-4bd0-b6c5-bc933e8844fd",
+    "language": "EN",
+    "title": "NANDIŚWARA",
+    "description": "<p>Location of discovery unknown<br>8th-9th Century CE<br>No. Inv. 52<br>Nandishvara, an emanation of Śiva, was granted the honor of&nbsp;being the guardian of Mount Kailasa. Nandishvara carries a&nbsp;trident and is placed at the right entrance of Saiva temples.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT21Nandiswara52Low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT21Nandiswara52Low-en.mp3"
+},{
+    "id": "3b929697-53c2-4a30-ab49-34cac788b95b",
+    "annotationId": "07bf880b-4636-40c1-9080-b05bee392974",
+    "language": "ID",
+    "title": "BRAHMA",
+    "description": "<p>Candirejo, Magelang, Jawa Tengah<br>Abad ke-8-9 Masehi<br>No. Inv. 5509<br>Dalam ajaran Hindu, Yama adalah dewa kematian yang akan&nbsp;membimbing jiwa menuju alam baka dan menjadi penjaga arah&nbsp;selatan. Sebuah tali pengikat bernama pāśa (jerat) kerap muncul di&nbsp;setiap arcanya &mdash; menyimbolkan perannya di perjalanan suci ini.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT35Yama5509LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT35Yama5509LOW-id.mp3"
+},{
+    "id": "5a9a1935-783b-4368-a883-0056b3227bd5",
+    "annotationId": "07bf880b-4636-40c1-9080-b05bee392974",
+    "language": "EN",
+    "title": "BRAHMA",
+    "description": "<p>Candirejo, Magelang, Central Java<br>8th-9th Century CE<br>No. Inv. 5509<br>In Hinduism, Yama is the God of Death, responsible for guiding&nbsp;souls to their afterlife and is the guardian of the southern&nbsp;direction. Statues of Yama often feature a noose called pāśa,&nbsp;symbolizing his role in this sacred journey.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT35Yama5509LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT35Yama5509LOW-en.mp3"
+},{
+    "id": "063e0a7d-a1bd-4c55-a038-d344b1c716de",
+    "annotationId": "ce571e59-7d78-4702-b322-ec22636c5648",
+    "language": "ID",
+    "title": "SURYA",
+    "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, Jawa Timur<br>Abad ke-11-13 Masehi<br>No. Inv. 8455<br>Di pagi hari, sang Surya terbit memancarkan cahaya untuk menerangi&nbsp;dunia. Dalam Astadikpalaka &mdash; Surya merupakan sang Dewa Matahari&nbsp;yang melindungi arah timur laut.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT04BRAHMA6LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT04BRAHMA6LOW-id.mp3"
+},{
+    "id": "68c65854-c599-4643-861b-576cea5f5e1e",
+    "annotationId": "ce571e59-7d78-4702-b322-ec22636c5648",
+    "language": "EN",
+    "title": "SURYA",
+    "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, East Java<br>11th-13th Century CE<br>No. Inv. 8455<br>The Sun rises each morning, casting its light to brighten the&nbsp;world. In Ashtadikpalaka, the sun embodies the God of Sun,&nbsp;who serves as the protector of the northeast direction.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT04BRAHMA6LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT04BRAHMA6LOW-en.mp3"
+},{
+    "id": "a904dcd8-d0e2-46ae-873d-2f44a37abab1",
+    "annotationId": "0143b34d-e392-4ab1-a0a9-421013b6f20e",
+    "language": "ID",
+    "title": "ŚIWA MAHĀDEWA",
+    "description": "<p>Dekat Borobudur, Jawa Tengah<br>Abad ke-8 Masehi<br>No. Inv. 23<br>Dalam agama Hindu, lembu adalah hewan suci. Śiwa Mahādewa&nbsp;sering digambarkan mengendarai Nandi, seekor lembu suci jantan&nbsp;sebagai tunggangannya.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_SM_23LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_SM_23LOW-id.mp3"
+}, {
+    "id": "9487bbbe-5355-45ab-be77-747343915c32",
+    "annotationId": "0143b34d-e392-4ab1-a0a9-421013b6f20e",
+    "language": "EN",
+    "title": "ŚIWA MAHĀDEWA",
+    "description": "<p>Dekat Borobudur, Central Java<br>8th Century CE<br>No. Inv. 23<br>In Hinduism, cows are sacred. Śiva Mahādeva is often depicted&nbsp;riding Nandi, a sacred bull as his vehicle.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_SM_23LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_SM_23LOW-en.mp3"
 }
 ]
