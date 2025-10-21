@@ -307,22 +307,22 @@
     "audioUrl": "/cdn/static/audio/rotunda/RT-SMAP38-LOW-en.mp3"
 },{
     "id": "12abb555-8c13-4e40-beab-29de7f43ed55",
-    "annotationId": "ini diganti",
+    "annotationId": "3072cd8c-4ba4-440c-92e5-32a6243cbd5d",
     "language": "ID",
-    "title": "WIṢṆU",
-    "description": "<p>Pucang, Candirejo, Magelang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 5506<br>Salah satu dewa tertinggi yang menjaga keseimbangan alam&nbsp;semesta. Perannya hadir untuk memulihkan ketertiban dan&nbsp;menegakkan kebenaran, memastikan siklus alam semesta tetap&nbsp;harmonis terjaga.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT34Wisnu5506LOW.glb",
+    "title": "ŚIWA MAHĀDEWA ARCA PERWUJUDAN",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-14-15 Masehi<br>No. Inv. 7204<br>Arca seorang raja/penguasa Majapahit yang diwujudkan sebagai figur Dewa Śiwa Mahādewa. Raja adalah penguasa tertinggi yang memiliki keberanian, kekuatan penghancur musuh, kekuasaan, dan pengetahuan.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-SMAP7204-LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT34Wisnu5506LOW-id.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT-SMAP7204-LOW-id.mp3"
 }, {
     "id": "2ac8e771-a7ff-4d2e-867f-cda7d5e008d1",
-    "annotationId": "ini dganti",
+    "annotationId": "3072cd8c-4ba4-440c-92e5-32a6243cbd5d",
     "language": "EN",
-    "title": "WIṢṆU",
-    "description": "<p>Pucang, Candirejo, Magelang, Central Java<br>8th - 9th Century CE<br>No. Inv. 5506<br>One of the supreme gods who maintains the balance of the&nbsp;universe. His roles is to restore order and uphold truth,&nbsp;ensuring the cosmic cycle remains harmoniously preserved.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT34Wisnu5506LOW.glb",
+    "title": "ŚIWA MAHĀDEWA EMBODIMENT STATUE",
+    "description": "<p>Location unknown<br>14th - 15th Century CE<br>No. Inv. 7204&nbsp;<br>A statue of a king/ruler depicted as the figure of the God Śiva Mahādeva. The King is the supreme ruler, embodying courage, the power to destroy enemies, authority, and knowledge.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-SMAP7204-LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT34Wisnu5506LOW-en.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT-SMAP7204-LOW-en.mp3"
 },{
     "id": "a224071d-9d31-49e9-a9ca-619648e71798",
     "annotationId": "f65ab72a-921e-4c92-a9f0-cf072ebef036",
@@ -504,23 +504,23 @@
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT31ST4LOW-en.mp3"
 },{
-    "id": "6fd800cc-5cb7-44d2-a391-03d211a06942",
+    "id": "e62f78ca-3ec7-4cb1-adc0-43d21dd14521",
     "annotationId": "26f6ad3c-a8e8-4779-99cb-934e55d523d9",
     "language": "ID",
-    "title": "BRAHMA masih salah 1",
-    "description": "<p>Candirejo, Magelang, Jawa Tengah<br>Abad ke-8-9 Masehi<br>No. Inv. 5509</p><br/><p>Dalam ajaran Hindu, Yama adalah dewa kematian yang akan<br>membimbing jiwa menuju alam baka dan menjadi penjaga arah<br>selatan. Sebuah tali pengikat bernama pāśa (jerat) kerap muncul di<br>setiap arcanya &mdash; menyimbolkan perannya di perjalanan suci ini.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT35Yama5509LOW.glb",
+    "title": "MAHAKALA",
+    "description": "<p>Candirejo, Magelang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 5516</p><br/><p>Mahakala, sang penjaga tangguh di pintu masuk di sisi kiri kuil Hindu<br>Śiwa, dengan senjata gadha yang perkasa, Ia memastikan kesucian<br>kuil yang Ia jaga.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT20Mahakala5516LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT35Yama5509LOW-id.mp3"
-},{
-    "id": "dbcbb22c-db2c-464c-9d40-3531e26c8539",
+    "audioUrl": "/cdn/static/audio/rotunda/RT20Mahakala5516LOW-id.mp3"
+}, {
+    "id": "d72337ec-92cb-48a2-aacf-424f31d23298",
     "annotationId": "26f6ad3c-a8e8-4779-99cb-934e55d523d9",
     "language": "EN",
-    "title": "BRAHMA masih salah 1",
-    "description": "<p>Candirejo, Magelang, Central Java<br>8th-9th Century CE<br>No. Inv. 5509</p><br/><p>In Hinduism, Yama is the God of Death, responsible for guiding<br>souls to their afterlife and is the guardian of the southern<br>direction. Statues of Yama often feature a noose called pāśa,<br>symbolizing his role in this sacred journey.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT35Yama5509LOW.glb",
+    "title": "MAHAKALA",
+    "description": "<p>Candirejo, Magelang, Central Java<br>8th - 9th Century CE<br>No. Inv. 5516</p><br/><p>Mahakala stands as the formidable guardian at the left<br>entrance of the Hindu Śiva temple. Armed with his powerful<br>gadha weapon, he vigilantly preserves the temple&rsquo;s<br>sacredness.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT20Mahakala5516LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT35Yama5509LOW-en.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT20Mahakala5516LOW-en.mp3"
 },{
     "id": "a024e153-c352-4404-8cf3-2dee6ea19d11",
     "annotationId": "de10fcea-69ec-44b0-ab04-1db9521428c5",
@@ -612,8 +612,26 @@
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT04BRAHMA6LOW-en.mp3"
 },{
-    "id": "a904dcd8-d0e2-46ae-873d-2f44a37abab1",
+    "id": "f2c7c049-4dee-458a-b834-8a0004432d23",
     "annotationId": "0143b34d-e392-4ab1-a0a9-421013b6f20e",
+    "language": "ID",
+    "title": "WIṢṆU",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-8 Masehi<br>No. Inv. 17</p><br/><p>Dewa pemelihara dan pelindung alam semesta dalam agama Hindu.<br>Dewa Wiṣṇu kerap digambarkan mengendarai burung Garuda.<br>Sebuah perlambangan dari keperkasaan dałam mengalahkan<br>kejahatan. Garuda menjadi inspirasi lambang negara Indonesia.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT33Wisnu17LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT33Wisnu17LOW-id.mp3"
+}, {
+    "id": "fbdc0a52-704e-44fa-9e66-55c702901007",
+    "annotationId": "0143b34d-e392-4ab1-a0a9-421013b6f20e",
+    "language": "EN",
+    "title": "WIṢṆU",
+    "description": "<p>Location of discovery unknown<br>8th Century CE<br>No. Inv. 17</p><br/><p>The preserver and protector of the universe in Hinduism. Viṣṇu<br>is often portrayed riding his Garuda, the mighty bird that<br>symbolizes strength in overcoming evil and serves as the<br>inspiration for Indonesia's national symbol.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT33Wisnu17LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT33Wisnu17LOW-en.mp3"
+},{
+    "id": "815eedc1-0b67-442c-9f7b-79b63c5e964d",
+    "annotationId": "2bb15477-3ca3-494e-8233-804b917911c6",
     "language": "ID",
     "title": "ŚIWA MAHĀDEWA",
     "description": "<p>Dekat Borobudur, Jawa Tengah<br>Abad ke-8 Masehi<br>No. Inv. 23<br>Dalam agama Hindu, lembu adalah hewan suci. Śiwa Mahādewa&nbsp;sering digambarkan mengendarai Nandi, seekor lembu suci jantan&nbsp;sebagai tunggangannya.</p>",
@@ -621,13 +639,211 @@
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT_SM_23LOW-id.mp3"
 }, {
-    "id": "9487bbbe-5355-45ab-be77-747343915c32",
-    "annotationId": "0143b34d-e392-4ab1-a0a9-421013b6f20e",
+    "id": "ae90f020-f25f-44a5-bb9d-0c98971c3972",
+    "annotationId": "2bb15477-3ca3-494e-8233-804b917911c6",
     "language": "EN",
     "title": "ŚIWA MAHĀDEWA",
     "description": "<p>Dekat Borobudur, Central Java<br>8th Century CE<br>No. Inv. 23<br>In Hinduism, cows are sacred. Śiva Mahādeva is often depicted&nbsp;riding Nandi, a sacred bull as his vehicle.</p>",
     "modelUrl": "/cdn/static/glb/rotunda/RT_SM_23LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT_SM_23LOW-en.mp3"
+},{
+    "id": "9b615668-f3f4-4ac9-8304-2f03998c1fd4",
+    "annotationId": "54d355f6-4e1b-4bc7-a6c6-acbcafa666ca",
+    "language": "ID",
+    "title": "DURGA MAHISASURAMARDINI BERTANGAN SEPULUH",
+    "description": "<p>Dieng, Wonosobo, Jawa Tengah<br>Abad ke8 - 9 Masehi<br>No. Inv. 152<br>Nama Mahisasuramardini disematkan ke dewi Durga setelah Ia&nbsp;mengalahkan Asura, kerbau raksasa yang jahat. Dalam kisahnya, Ia&nbsp;menunggangi seekor singa sembari membawa senjata yang diberikan&nbsp;oleh para dewa.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT09DM152LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT09DM152LOW-id.mp3"
+}, {
+    "id": "69b615668-f3f4-4ac9-8304-2f03998c1fd4",
+    "annotationId": "54d355f6-4e1b-4bc7-a6c6-acbcafa666ca",
+    "language": "EN",
+    "title": "SURDURGA MAHISASURAMARDINIYA WITH TEN ARMS ",
+    "description": "<p>Dieng, Wonosobo, Central Java<br>8th - 9th Century CE<br>No. Inv. 152<br>The name Mahisasuramardini was bestowed upon Durga the&nbsp;Goddess after she triumphed over Asura, the evil giant buffalo.&nbsp;In her tale, she rides a lion and wields divine weapons granted&nbsp;by the Gods.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT09DM152LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT09DM152LOW-en.mp3"
+},{
+    "id": "b70cb7ac-0968-4eba-94a1-c213eee10d08",
+    "annotationId": "36265ac7-d543-4e4a-9145-27f564dcf051",
+    "language": "ID",
+    "title": "KALI",
+    "description": "<p>Semarang, Jawa Tengah<br>Abad ke-8 - 9 Masehi<br>No. Inv. 154<br>Dewi Durga kerap hadir dalam berbagai wujud. Salah satunya sebagai Kali &mdash; dewi yang dipuja oleh penganut ajaran Hindu Tantra.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT15KALI154LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT15KALI154LOW-id.mp3"
+}, {
+    "id": "866e425b-c803-4133-bcfc-b356e855e2f6",
+    "annotationId": "36265ac7-d543-4e4a-9145-27f564dcf051",
+    "language": "EN",
+    "title": "KALI",
+    "description": "<p>Semarang, Central Java<br>8th - 9th Century CE<br>No. Inv. 154<br>Durga the Goddess is known to manifest in many forms, one of which is Kali, a revered figure among Tantric Hindus.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT15KALI154LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT15KALI154LOW-en.mp3"
+},{
+    "id": "1819616d-fb79-493c-be5a-e6570a89a62b",
+    "annotationId": "7c04a362-1ead-4add-97bb-68e94b249547",
+    "language": "ID",
+    "title": "DURGA MAHISASURAMARDINI BERTANGAN DELAPAN",
+    "description": "<p>Cicalengka, Bandung, Jawa Barat<br>Abad ke-8 - 9 Masehi<br>No. Inv. 151&nbsp;<br>Śakti (pasangan) Dewa Śiwa dalam aspek krodha.&nbsp;Sosok kerbau sering ditampilkan bersama sang Durga. Kerbau&nbsp;tersebut menggambarkan Asura &mdash; raksasa jahat yang berhasil&nbsp;dikalahkan oleh Durga dengan senjata yang diberikan oleh para&nbsp;dewa.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT08DM151LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT08DM151LOW-id.mp3"
+}, {
+    "id": "8f3e1592-b5f3-4ef5-b912-eeba26405658",
+    "annotationId": "7c04a362-1ead-4add-97bb-68e94b249547",
+    "language": "EN",
+    "title": "DURGA MAHISASURAMARDINI WITH EIGHT ARMS",
+    "description": "<p>Cicalengka, Bandung, West Java<br>8th - 9th Century CE<br>No. Inv. 151<br>Śiva's consort in her wrathful aspect (krodha).&nbsp;In depictions of Durga, you will frequently see her alongside a&nbsp;buffalo. This buffalo symbolizes Asura, the evil giant whom Durga&nbsp;defeated using divine weapons bestowed upon her by the Gods.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT08DM151LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT08DM151LOW-en.mp3"
+},{
+    "id": "cf8273fa-22e5-452e-89e0-7f2d8de6dfd6",
+    "annotationId": "9a1b9b0a-3fab-487e-9048-8c6a8bbc376b",
+    "language": "ID",
+    "title": "DURGA MAHISASURAMARDINI BERTANGAN DELAPAN",
+    "description": "<p>Cibodas, Jawa Barat<br>Abad ke-8-9 Masehi<br>No. Inv. 46<br>Śiwa, Dewa Tertinggi dalam agama Hindu, mewujudkan kekuatan dahsyat yang dapat meleburkan dan menciptakan kembali alam semesta beserta segala isinya.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT29Siwamahadewa46LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT29Siwamahadewa46LOW-id.mp3"
+},{
+    "id": "17c54fc1-11e3-42fc-8887-3505248acbd7",
+    "annotationId": "9a1b9b0a-3fab-487e-9048-8c6a8bbc376b",
+    "language": "EN",
+    "title": "DURGA MAHISASURAMARDINI WITH EIGHT ARMS",
+    "description": "<p>Cibodas, West Java<br>8th - 9th Century CE<br>No. Inv. 46<br>Śiva, the Supreme God in Hinduism, embodies the powerful force of nature that can dissolve and recreate the universe and everything within it.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT29Siwamahadewa46LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT29Siwamahadewa46LOW-en.mp3"
+},{
+    "id": "744e3fe4-51ce-48e6-b135-aadd02e71a96",
+    "annotationId": "3b03e90e-5097-44b1-94b5-cf654ea7144a",
+    "language": "ID",
+    "title": "AGASTYA",
+    "description": "<p>Ciparay, Cipenjeuh, Bandung, Jawa Barat<br>Abad ke-8-9 Masehi<br>No. Inv. 66c/4957<br>Keberanian Agastya dalam melintasi samudra untuk menyebarkan agama Hindu membuatnya dihormati sebagai seorang resi atau rohaniwan yang figur arcanya kerap hadir di relung selatan candi&nbsp;Śaiwa.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT01AGASTYA66CLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT01AGASTYA66CLOW-id.mp3"
+}, {
+    "id": "633b9c6c-12e5-47ee-a78d-f502b0b36be8",
+    "annotationId": "3b03e90e-5097-44b1-94b5-cf654ea7144a",
+    "language": "EN",
+    "title": "AGASTYA",
+    "description": "<p>Ciparay, Cipenjeuh, Bandung, West Java<br>8th-9th Century CE<br>No. Inv. 66c/4957<br>Agastya's courage in crossing the ocean to spread Hinduism&nbsp;made him respected as a rishi whose statue is often present in&nbsp;the southern niche of the Saiva temple.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT01AGASTYA66CLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT01AGASTYA66CLOW-en.mp3"
+},{
+    "id": "cecb7cca-7a29-487c-bf7b-973d6461f94e",
+    "annotationId": "c1c130d4-9166-45f3-a08f-0444f778aa8f",
+    "language": "ID",
+    "title": "BAYU (WAYU)",
+    "description": "<p>Candirejo, Magelang, Jawa Tengah<br>Abad ke-8-9 Masehi<br>No. Inv. 5546&nbsp;<br>Bayu, dikenal juga sebagai Wayu, adalah sosok Dewa Astadikpalaka yang menguasai angin dan udara. Ia bertugas untuk menjaga arah barat laut sebagai pelindung wilayah tersebut.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Bayu5546-low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Bayu5546-low-id.mp3"
+},{
+    "id": "1323b837-8729-4088-84b2-2423e7f29a92",
+    "annotationId": "c1c130d4-9166-45f3-a08f-0444f778aa8f",
+    "language": "EN",
+    "title": "BAYU (VAYU)",
+    "description": "<p>Candirejo, Magelang, Central Java<br>8th-9th Century CE<br>No. Inv. 5546<br>Bayu, also known as Vayu, is a deity of the Astadikpalaka (Eight Guardians of Directions) who governs wind and air. He is entrusted with guarding the northwest direction as the protector of that realm.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT-Bayu5546-low.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT-Bayu5546-low-en.mp3"
+},{
+    "id": "5083467d-a402-4c84-aa2c-4e6c116f6f68",
+    "annotationId": "13371410-71d4-42c9-9c97-81e8cf98c3cd",
+    "language": "ID",
+    "title": "ŚIWA MAHĀDEWA",
+    "description": "<p>Dieng, Jawa Tengah<br>Abad ke-8 Masehi<br>No. Inv. 24<br>Śiwa Mahādewa adalah dewa tertinggi dalam agama Hindu yang&nbsp;melambangkan kehancuran. Ia juga yang akan menciptakan kembali&nbsp;alam semesta beserta seluruh isinya.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_SM_24LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_SM_24LOW-id.mp3"
+}, {
+    "id": "e08ade76-f357-4c68-ba18-3636c5af8b9f",
+    "annotationId": "13371410-71d4-42c9-9c97-81e8cf98c3cd",
+    "language": "EN",
+    "title": "ŚIWA MAHĀDEWA",
+    "description": "<p>Dieng, Central Java<br>8th Century CE<br>No. Inv. 24<br>Śiva Mahādeva, the Supreme God in Hinduism, represents&nbsp;destruction. But fear not, He is also the divine force that will&nbsp;recreate the universe and everything within it.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT_SM_24LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT_SM_24LOW-en.mp3"
+},{
+    "id": "c3174f6c-6b99-4a9a-94e6-e72085dd2067",
+    "annotationId": "d911e433-0dc8-42a3-bdf5-3b0b73414a7f",
+    "language": "ID",
+    "title": "DURGA MAHISASURAMARDINI BERTANGAN DELAPAN",
+    "description": "<p>Bandung, Jawa Barat<br>Abad ke-8-9 Masehi<br>No. Inv. 148<br>Śakti (pasangan) Dewa Śiwa dalam aspek krodha. Senjata yang&nbsp;dipegangnya merupakan pemberian para dewa untuk membunuh&nbsp;Asura.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT07DM148LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT07DM148LOW-id.mp3"
+},{
+    "id": "9c5e277d-f266-4023-af83-773b3f000a28",
+    "annotationId": "d911e433-0dc8-42a3-bdf5-3b0b73414a7f",
+    "language": "EN",
+    "title": "DURGA MAHISASURAMARDINI WITH EIGHT ARMS",
+    "description": "<p>Bandung, West Java<br>8th-9th Century CE<br>No. Inv. 148<br>Śiva&rsquo;s consort in her wrathful aspect (krodha). The weapons&nbsp;she holds were gifts from the gods to kill the Asura.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT07DM148LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT07DM148LOW-en.mp3"
+},{
+    "id": "975e4a8d-8de9-4c46-ad96-b4ed8d85c3ff",
+    "annotationId": "02969db4-370d-44dd-b30b-0f0cdc466fa6",
+    "language": "ID",
+    "title": "NANDIŚWARA",
+    "description": "<p>Gunung Kombeng, Muara Wahau, Kutai Timur, Kalimantan Timur<br>Abad ke- 8-9 Masehi<br>No. Inv. 103g/3784 <br>Nandiśwara adalah pancaran Śiwa yang diberi anugrah sebagai&nbsp;penjaga gunung Kailasa. Nandiśwara membawa senjata triśula&nbsp;ditempatkan di pintu masuk sebelah kanan candi Śaiwa.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT22Nandiswara103gLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT22Nandiswara103gLOW-id.mp3"
+}, {
+    "id": "4bb69845-09dc-4f96-979a-da8d0bdb1ce4",
+    "annotationId": "02969db4-370d-44dd-b30b-0f0cdc466fa6",
+    "language": "EN",
+    "title": "NANDIŚWARA",
+    "description": "<p>Gunung Kombeng, Muara Wahau, East Kutai, East Kalimantan<br>8th-9th Century CE<br>No. Inv. 103g/3784<br>Nandishvara is an emanation of Śiva who was granted the&nbsp;honor of being the guardian of Mount Kailasa. Nandishvara&nbsp;carries a trident and is placed at the right entrance of the Saiva&nbsp;temples.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT22Nandiswara103gLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT22Nandiswara103gLOW-en.mp3"
+},{
+    "id": "706d9a9c-b46f-4695-aba8-318a74d5e900",
+    "annotationId": "5c7ba9cc-403a-48a5-b345-f203b7d6cd48",
+    "language": "ID",
+    "title": "INDRA",
+    "description": "<p>Gunung Kombeng, Muara Wahau, Kutai Timur, Kalimantan Timur<br>Abad ke-8-9 Masehi<br>No. Inv. 103h/3785<br>Indra &mdash; sang Dewa Petir, Hujan, dan Perang &mdash; adalah penjaga&nbsp;wilayah Timur. Ia memiliki sebuah wajra, senjata tongkat sula yang&nbsp;berkekuatan petir. Arca ini duduk bersila dengan tenang &mdash; akankah&nbsp;Ia membawa hujan hari ini?</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT12INDRA103HLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT12INDRA103HLOW-id.mp3"
+}, {
+    "id": "a246d32d-21cd-4eac-bd98-cfcc7b5e97a5",
+    "annotationId": "5c7ba9cc-403a-48a5-b345-f203b7d6cd48",
+    "language": "EN",
+    "title": "INDRA",
+    "description": "<p>Gunung Kombeng, Muara Wahau, East Kutai, East kalimantan<br>8th-9th Century CE<br>No. Inv. 103h/3785<br>Indra--the God of Thunder, Rain, and War--is the figure of the&nbsp;guardian of the East. Clutching his vajra, a lightning power&nbsp;weapon, he is depicted here seated in serene meditation. Will&nbsp;he bring rain today?</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RT12INDRA103HLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RT12INDRA103HLOW-en.mp3"
+},{
+    "id": "c755d8c1-1c21-4706-aad5-790392a43c60",
+    "annotationId": "bff6f714-fa0b-4bad-b9a5-5172c886cbca",
+    "language": "ID",
+    "title": "ARCA SEORANG RATU",
+    "description": "<p>Jebuk, Tulungagung, Jawa Timur<br>Awal abad ke-15 Masehi<br>No. Inv. 6058</p><br/><p>Arca ini kemungkinan menggambarkan Suhita, seorang ratu<br>yang memerintah Kerajaan Majapahit dari tahun 1429 hingga<br>1447. Sebagai tokoh terkemuka pada masanya, arca ini<br>diduga menggambarkan pentingnya peran Suhita dalam<br>kerajaan.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RTARCASEORANGRATU6058LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RTARCASEORANGRATU6058LOW-id.mp3"
+}, {
+    "id": "c189345c-ee4c-4409-a146-ad19068f2355",
+    "annotationId": "bff6f714-fa0b-4bad-b9a5-5172c886cbca",
+    "language": "EN",
+    "title": "STATUE OF A QUEEN",
+    "description": "<p>Jebuk, Tulungagung, East Java<br>Early 15th Century CE<br>No. Inv. 6058</p><br/><p>This statue is likely the depiction of Suhita, the Queen<br>of Majapahit who reigned from 1429 to 1447. As a<br>significant historical figure, the statue highlights the<br>important role Suhita played during her time.</p>",
+    "modelUrl": "/cdn/static/glb/rotunda/RTARCASEORANGRATU6058LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/rotunda/RTARCASEORANGRATU6058LOW-en.mp3"
 }
 ]
