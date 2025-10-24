@@ -126,24 +126,6 @@
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/rotunda/RT05CHANDRA8456LOW-en.mp3"
 },{
-    "id": "0c27a165-1af4-4990-9804-f5ffda21d37c",
-    "annotationId": "16073d00-f55e-4e5a-aeeb-eae9f2927aab",
-    "language": "ID",
-    "title": "CHANDRA",
-    "description": "<p>Dukuh Sentul, Desa Tiru, Gurah, Kediri, Jawa Timur<br>Abad ke-11-13 Masehi<br>No. Inv. 8456<br>Chandra, sang Dewa Bulan, dikenal juga sebagai Soma dari teks suci kuno Weda. Nama Chandra memiliki arti terang dan bersinar.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT05CHANDRA8456LOW.glb",
-    "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT05CHANDRA8456LOW-id.mp3"
-}, {
-    "id": "045ff6c6-9830-4883-aa6b-80ab2be39228",
-    "annotationId": "16073d00-f55e-4e5a-aeeb-eae9f2927aab",
-    "language": "EN",
-    "title": "CHANDRA",
-    "description": "<p>Dukuh Sentul, Tiru Village, Gurah, Kediri, East Java<br>11th - 13th Century CE<br>No. Inv. 8456<br>Chandra, the Moon God, is also known as Soma from the ancient sacred texts of the Vedas. The name Chandra means bright and shining.</p>",
-    "modelUrl": "/cdn/static/glb/rotunda/RT05CHANDRA8456LOW.glb",
-    "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT05CHANDRA8456LOW-en.mp3"
-},{
     "id": "a8599576-8942-4d9e-96a3-abf691ba49d3",
     "annotationId": "4f4c8437-cec4-411b-8983-d97f0afc33ad",
     "language": "ID",
