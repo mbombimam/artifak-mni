@@ -1,0 +1,273 @@
+[
+{
+    "id": "89d7bd94-c5e3-4597-bb96-97891d0987fb",
+    "annotationId": "7250df57-426c-4ea0-8054-2518ccb5acf4",
+    "language": "ID",
+    "title": "Daun Pohon Kapur",
+    "description": "<p>A.MQ.2.46<br>Museum Sejarah Al-Qur&rsquo;an Sumatera Utara</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATDAUNKAPURLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+}, {
+    "id": "a22a6dd2-38af-4720-abe5-fa70ccc6708a",
+    "annotationId": "7250df57-426c-4ea0-8054-2518ccb5acf4",
+    "language": "EN",
+    "title": "Camphor Tree Leaves",
+    "description": "<p>A.MQ.2.46<br>The North Sumatra Al-Qur&rsquo;an History Museum</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATDAUNKAPURLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "95f23ad1-0079-4a05-88d7-a45e2fd37cef",
+    "annotationId": "84987d3f-c817-47ac-af10-3d30a081ae68",
+    "language": "ID",
+    "title": "Gambus",
+    "description": "<p>Riau<br>Kayu, kulit<br>Abad ke-19<br>3657<br>Museum Nasional Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATGAMBUSLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+}, {
+    "id": "1e34b8e5-a8f2-4148-b9e3-e07d6a6d1c3e",
+    "annotationId": "84987d3f-c817-47ac-af10-3d30a081ae68",
+    "language": "EN",
+    "title": "Gambus",
+    "description": "<p>Riau<br>Wood, leather<br>19th century<br>3657<br>National Museum of Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATGAMBUSLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "6f6629d4-9d8b-4f0d-b93b-9a01ffd96fa5",
+    "annotationId": "338f6c22-7e45-4088-9c0e-ff91edbb344f",
+    "language": "ID",
+    "title": "Kayu Kapur",
+    "description": "<p>A.MQ.2.42<br>Museum Sejarah Al-Qur&rsquo;an Sumatera Utara</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATKAYUKAPURLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+}, {
+    "id": "80cba491-9da5-40e5-8f3b-eb1d6533ac4e",
+    "annotationId": "338f6c22-7e45-4088-9c0e-ff91edbb344f",
+    "language": "EN",
+    "title": "Camphor Wood",
+    "description": "<p>A.MQ.2.42<br>The North Sumatra Al-Qur&rsquo;an History Museum</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATKAYUKAPURLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "27838770-81dc-4990-8e4a-60d1a8db430b",
+    "annotationId": "8c564f46-6fac-4da2-bf55-7a13ea0ec52a",
+    "language": "ID",
+    "title": "Miniatur Mesjid",
+    "description": "<p>Bogor, Jawa Barat<br>Bambu, kayu murbei<br>1883<br>S 230-29<br>Museum Nasional Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATMINIATURMESJIDS451465LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+}, {
+    "id": "9c63c61f-9a0f-4ef6-985e-43ad09e7b8c0",
+    "annotationId": "8c564f46-6fac-4da2-bf55-7a13ea0ec52a",
+    "language": "EN",
+    "title": "Miniature Of A Mosque",
+    "description": "<p>Bogor, West Java<br>Bamboo, mulberry wood<br>1883<br>S 230-29<br>National Museum of Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATMINIATURMESJIDS451465LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "cad020ae-dbf1-474d-963a-839e387d6790",
+    "annotationId": "b2a12a49-92c2-448e-98d3-a9c05e5a4d47",
+    "language": "ID",
+    "title": "Kayu Kapur",
+    "description": "<p>A.MQ.2.42<br>Museum Sejarah Al-Qur&rsquo;an Sumatera Utara</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATRESINKAYUKAPURLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+}, {
+    "id": "bcd113cb-15cf-45c7-9753-ac095d190126",
+    "annotationId": "b2a12a49-92c2-448e-98d3-a9c05e5a4d47",
+    "language": "EN",
+    "title": "Camphor Wood",
+    "description": "<p>A.MQ.2.42<br>The North Sumatra Al-Qur&rsquo;an History Museum</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATRESINKAYUKAPURLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "8db7cef4-f477-4ef3-8b54-39def2c3c8f8",
+    "annotationId": "e02cc398-8b2a-48ba-9eca-bc0ff7fae87a",
+    "language": "ID",
+    "title": "Hiasan Kaligrafi",
+    "description": "<p>Cirebon<br>Kayu<br>Awal abad ke-20<br>21009<br>Museum Nasional Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATHIASANKALIGRAFI21009LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+}, {
+    "id": "8f9e07f1-5c65-4084-912a-5f7b3b2c8995",
+    "annotationId": "e02cc398-8b2a-48ba-9eca-bc0ff7fae87a",
+    "language": "EN",
+    "title": "Calligraphy Decoration",
+    "description": "<p>Cirebon<br>Wood<br>Early 20th century<br>21009<br>National Museum of Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATHIASANKALIGRAFI21009LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "4f9ead4b-9362-4bbb-bc8d-99926ef65574",
+    "annotationId": "590d7a4e-df8d-4670-bdb5-c6e93d61bda6",
+    "language": "ID",
+    "title": "Naskah Rumekso Ing Wengi dan Serat Ahmad Muhammad",
+    "description": "<p>Desa Lobu Tua, Tapanuli Tengah,Sumatera Utara<br>Batu<br>Tahun 1088 Masehi<br>Bahasa Tamil, Aksara Tamil dan Grantha<br>D.42<br>Museum Nasional Indonesia&nbsp;<br><br>Barus dikenal sebagai penghasil kamper atau kapur barus yang banyak digunakan oleh bangsa Timur-Tengah sejak awal masehi. Wilayah ini menjadi sasaran para pedagang Arab, India, Tiongkok, dan Tamil. Persekutuan dagang bangsa Tamil kemudian membangun permukiman di Barus dan mengeluarkan prasasti Lobu Tua sekitar abad ke-11 Masehi. Prasasti ini berisi regulasi pajak yang terkait pedagang-pedagang Tamil. Banyaknya temuan nisan makam di kawasan Barus menandai hadirnya Islam ke Nusantara melalui pedagang dari Timur Tengah yang singgah dan menetap di daerah tersebut.&nbsp;</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MisykatPrasastiLobuTuaD42LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/MisykatPrasastiLobuTuaD42LOW-id"
+},{
+    "id": "8f9e07f1-5c65-4084-912a-5f7b3b2c8995",
+    "annotationId": "590d7a4e-df8d-4670-c6e93d6bdb5-1bda6",
+    "language": "EN",
+    "title": "Manuscript of Rumekso Ing Wengi and Serat Ahmad Muhammad",
+    "description": "<p>Lobu Tua Village, Central Tapanuli, North Sumatra<br>Stone<br>Year 1088 AD<br>Tamil Language, Tamil Script, and Grantha Script<br>D.42<br>National Museum of Indonesia<br><br>Barus was known as a producer of camphor or kapur barus, which was widely used by Middle Eastern nations since the early centuries AD. This region became a target for Arab, Indian, Chinese, and Tamil traders. A Tamil merchant guild later established a settlement in Barus and issued the Lobu Tua inscription around the 11th century AD. This inscription contains tax regulations related to Tamil merchants. The numerous findings of tombstones in the Barus area mark the arrival of Islam in Nusantara through Middle Eastern traders who stopped and settled in the region.</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MisykatPrasastiLobuTuaD42LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/MisykatPrasastiLobuTuaD42LOW-en"
+},{
+    "id": "f86acc06-b8d4-45d2-aa24-d6e576c8749e",
+    "annotationId": "c431eed2-5cf2-4aff-a059-9ee668c9013c",
+    "language": "ID",
+    "title": "Padasan",
+    "description": "<p>Cirebon, Jawa Barat<br>Tanah liat<br>Abad ke-20<br>Cirebon, Jawa Barat<br>30588<br>Museum Nasional Indonesia<br><br>Padasan Paksinagaliman adalah wadah air wudhu berbentuk makhluk mitologi gabungan burung, naga, dan gajah. Bentuk ini mencerminkan akulturasi budaya Islam, Tionghoa, dan India, serta merefleksikan lingkungan sosial dan perkembangan seni hias di Cirebon.</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATPADASAN30588LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/MISYKATPADASAN30588LOW-id"
+},{
+    "id": "288af829-666a-48d2-a942-7d98ac47af12",
+    "annotationId": "c431eed2-5cf2-4aff-a059-9ee668c9013c",
+    "language": "EN",
+    "title": "Padasan",
+    "description": "<p>Cirebon, West Java<br>Clay<br>20th Century<br>30588<br>National Museum of Indonesia<br><br>The Padasan Paksinagaliman is a water vessel for ablution shaped like a mythological creature combining a bird, a dragon, and anelephant. This form represents the cultural fusion of Islamic, Chinese, and Indian influences, reflecting the social environment and artistic development in Cirebon</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATPADASAN30588LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/MISYKATPADASAN30588LOW-en"
+},{
+    "id": "4e10e884-9129-42e6-bbfa-9ff71edaa476",
+    "annotationId": "2624c630-7c06-4644-9d6f-256b8d75f9be",
+    "language": "ID",
+    "title": "Stempel",
+    "description": "<p>Palembang, Sumatera Selatan<br>Kuningan, kayu<br>Tahun 1876<br>13741<br>Museum Nasional Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISKYATSTEMPELLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "59c1ee83-c2f8-4d68-9940-2b1235ba76fb",
+    "annotationId": "2624c630-7c06-4644-9d6f-256b8d75f9be",
+    "language": "EN",
+    "title": "Seal",
+    "description": "<p>Palembang, South Sumatra<br>Brass, Wood<br>Year 1876<br>13741<br>National Museum of Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISKYATSTEMPELLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "fe47f3d1-9142-411c-86f8-94fdf29d651a",
+    "annotationId": "40e2c494-7c27-4ee7-858b-f27dc28c8fcf",
+    "language": "ID",
+    "title": "Rehal",
+    "description": "<p>Jawa Tengah<br>Kayu<br>Akhir abad ke-19<br>S 230-533<br>Museum Nasional Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATREHAL8230533LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "8ee91b28-f143-40db-a712-7e063d194487",
+    "annotationId": "40e2c494-7c27-4ee7-858b-f27dc28c8fcf",
+    "language": "EN",
+    "title": "Rehal",
+    "description": "<p>Central Java<br>Wood<br>Late 19th century<br>S 230-533<br>National Museum of Indonesia</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATREHAL8230533LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "d22a62b9-0924-4048-a64d-c37931dbb4e5",
+    "annotationId": "71bb7b89-913c-4de6-8a80-0c6e7e7e3bef",
+    "language": "ID",
+    "title": "Bunga Kapur",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATBUNGAKAPURLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "c11647f1-096f-4d63-87e3-5392e55259dc",
+    "annotationId": "71bb7b89-913c-4de6-8a80-0c6e7e7e3bef",
+    "language": "EN",
+    "title": "Chalk Flower",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATBUNGAKAPURLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "38ce5c23-730c-44cf-8a5b-280eab39b472",
+    "annotationId": "f368ba6b-c399-44e0-82bb-63a954c25d11",
+    "language": "ID",
+    "title": "Getah Kemenyan",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATGETAHKEMENYANLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "ed8f3b3f-e4bb-44d0-b2f3-fc35d4f29a10",
+    "annotationId": "f368ba6b-c399-44e0-82bb-63a954c25d11",
+    "language": "EN",
+    "title": "Sap Incense",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATGETAHKEMENYANLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "982f0174-e501-4429-b3ed-8b6cd5b684fb",
+    "annotationId": "0c6c817b-65ec-4fdd-948a-5cb0eee4e79f",
+    "language": "ID",
+    "title": "Grindel",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATGRINDELLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "d15de2d7-5a69-4f88-bbe2-19030cf3694e",
+    "annotationId": "0c6c817b-65ec-4fdd-948a-5cb0eee4e79f",
+    "language": "EN",
+    "title": "Grindel",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATGRINDELLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "7dad2d7a-5364-49a4-974d-6d6ceafbd9a2",
+    "annotationId": "a81faa1b-fc99-4ad4-b975-97807392c212",
+    "language": "ID",
+    "title": "Gulungan Mushaf Al-Quran Kuno",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATGULUNGANMUSHAFALQURANKUNOLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "dd540b54-d2b0-45ee-bddd-167c76b52e42",
+    "annotationId": "a81faa1b-fc99-4ad4-b975-97807392c212",
+    "language": "EN",
+    "title": "Ancient Al-Quran Parchment",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATGULUNGANMUSHAFALQURANKUNOLOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "e1df84dc-dfd5-48a9-858c-b4451ea4526d",
+    "annotationId": "c72b11fd-19e8-4bdf-b395-5ad5ba866ec5",
+    "language": "ID",
+    "title": "Jam Matahari",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATJAMMATAHARILOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+},{
+    "id": "d9c5f95f-998a-4767-a65f-b75f2ccdb2a2",
+    "annotationId": "c72b11fd-19e8-4bdf-b395-5ad5ba866ec5",
+    "language": "EN",
+    "title": "Sundial",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/miskyat/MISYKATJAMMATAHARILOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/"
+}
+]
