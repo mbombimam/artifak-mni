@@ -201,7 +201,7 @@
     "id": "c4111d0d-5b44-45c9-93b0-2f4cf29d08df",
     "annotationId": "d7c5c0e2-05be-4c9c-ab29-ed7b5253c780",
     "language": "ID",
-    "title": "Batu Nisan Aceh TipePipih “Berbahu”",
+    "title": "Batu Nisan Aceh Tipe Pipih “Berbahu”",
     "description": "<p>Aceh<br>Batu<br>Abad ke-16 M<br>RFKZ-Nisan04<br>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePipihBerbahu07RKFZNisan04LOW.glb",
     "imgUrl": "",
@@ -213,6 +213,24 @@
     "title": "Flat-Shouldered Aceh Tombstone",
     "description": "<p>Aceh<br>Stone<br>16th Century CE<br>RFKZ-Nisan04<br>Fadli Zon's Creative House</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePipihBerbahu07RKFZNisan04LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
+},{
+    "id": "35ca5bab-df34-4525-b8bb-8174029f654c",
+    "annotationId": "74a8eba7-51f8-4722-8985-0619e2592872",
+    "language": "ID",
+    "title": "Batu Nisan Aceh Tipe Pilar ",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePilar05KFZNisan07LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
+},{
+    "id": "a61d0b8a-70a6-4a59-b1d8-dd75d8dcdd65",
+    "annotationId": "74a8eba7-51f8-4722-8985-0619e2592872",
+    "language": "EN",
+    "title": "Pillar-Type Aceh Tombstone",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePilar05KFZNisan07LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/ruang-al-quran/"
 }
