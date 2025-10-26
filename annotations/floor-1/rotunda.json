@@ -403,7 +403,7 @@
     "description": "<p>Pulo, Padang Lawas, Sumatra Utara<br>Abad ke-13-14 Masehi<br>No. Inv. 6123<br>Tubuhnya bergerak dinamis dalam tarian. Tapi lihatlah lebih dekat,&nbsp;sosok ini berkepala lembu. Menurut Anda, apakah Ia figur mitologi&nbsp;yang bergembira? Atau memakai topeng sebagai pelengkap&nbsp;pertunjukannya?</p>",
     "modelUrl": "/cdn/static/glb/rotunda/RT-RPBL6123-low.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT-RPBL6123-low-id.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RTRPBL6123low-id.mp3"
 }, {
     "id": "b70a4820-6a67-41c9-b8fa-433ffcfcc0f0",
     "annotationId": "dcfe6c1c-40d1-4ea5-946e-15a6960d5d1e",
@@ -412,7 +412,7 @@
     "description": "<p>Pulo, Padang Lawas, North Sumatra<br>13th-14th Century CE<br>No. Inv. 6123<br>The dancer flows with dynamic grace, captured in a dance&nbsp;movement. Yet, upon closer inspection, this figure features a&nbsp;bull's head. Are they a mythological being embodying joyous&nbsp;moments, or simply a dancer adorned with a mask to enhance&nbsp;the performance?</p>",
     "modelUrl": "/cdn/static/glb/rotunda/RT-RPBL6123-low.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT-RPBL6123-low-en.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RTRPBL6123low-en.mp3"
 },{
     "id": "f3dfd52e-4ff3-4fca-a9fa-8b6599d6e730",
     "annotationId": "6ac21d54-64dd-4b57-8dbc-81121be0d7b8",
@@ -421,7 +421,7 @@
     "description": "<p>Pulo, Padang Lawas, Sumatra Utara<br>Abad ke-13-14 Masehi/<br>No. Inv. 6121<br>Patung berkepala gajah ini digambarkan dalam pose tarian yang&nbsp;dinamis, dan memiliki konteks asal yang sama dengan patung Buddha&nbsp;Bhairawa monumental yang dapat Anda temukan di Rotunda ini.</p>",
     "modelUrl": "/cdn/static/glb/rotunda/RT25RPBG6121LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT25RPBG6121LOW-id.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT-25RPBG6121LOW-id.mp3"
 }, {
     "id": "3740687d-c0f6-400e-b985-c873e3e6af61",
     "annotationId": "6ac21d54-64dd-4b57-8dbc-81121be0d7b8",
@@ -430,7 +430,7 @@
     "description": "<p>Pulo, Padang Lawas, North Sumatra<br>13th - 14th Century CE<br>No. Inv. 6121 <br>This elephant-headed statue, captured in a dynamic dance&nbsp;pose, was discovered in North Sumatra, sharing its origins with&nbsp;the monumental Bhairawa Buddha statues you can find in this&nbsp;Rotunda.</p>",
     "modelUrl": "/cdn/static/glb/rotunda/RT25RPBG6121LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/rotunda/RT25RPBG6121LOW-en.mp3"
+    "audioUrl": "/cdn/static/audio/rotunda/RT-25RPBG6121LOW-en.mp3"
 },{
     "id": "47f25f82-d346-4161-a2fc-5e1f1f4cddef",
     "annotationId": "24fc07d6-1643-4d4b-a2dc-3d6e07a9d0d0",
