@@ -1,0 +1,39 @@
+[
+{
+    "id": "6c6b2cef-388f-4ba2-ba5c-def927edff85",
+    "annotationId": "c1c637d8-e212-485d-85fa-d2b1ab74877b",
+    "language": "ID",
+    "title": "Nandi",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/arca-gedung-b/GEDUNGCLT1NANDILOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/arca-gedung-b/"
+}, {
+    "id": "a7c2a653-2aa4-41e9-8ac3-3269cde04970",
+    "annotationId": "c1c637d8-e212-485d-85fa-d2b1ab74877b",
+    "language": "EN",
+    "title": "Nandi",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/arca-gedung-b/GEDUNGCLT1NANDILOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/arca-gedung-b/"
+},{
+    "id": "5df3a553-ab16-49f2-ba86-6f16734e3e48",
+    "annotationId": "767dfe20-9cc4-4121-8bb3-027985a66097",
+    "language": "ID",
+    "title": "Mahakala",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/arca-gedung-b/GEDUNGCLT1MAHAKALALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/arca-gedung-b/"
+}, {
+    "id": "a31b73e8-e060-4622-a50d-e4782ac3db89",
+    "annotationId": "767dfe20-9cc4-4121-8bb3-027985a66097",
+    "language": "EN",
+    "title": "Mahakala",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/arca-gedung-b/GEDUNGCLT1MAHAKALALOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/arca-gedung-b/"
+}
+]
