@@ -111,20 +111,38 @@
     "id": "4f9ead4b-9362-4bbb-bc8d-99926ef65574",
     "annotationId": "590d7a4e-df8d-4670-bdb5-c6e93d61bda6",
     "language": "ID",
-    "title": "Naskah Rumekso Ing Wengi dan Serat Ahmad Muhammad",
+    "title": "Prasasti Lobu Tua",
     "description": "<p>Desa Lobu Tua, Tapanuli Tengah,Sumatera Utara<br>Batu<br>Tahun 1088 Masehi<br>Bahasa Tamil, Aksara Tamil dan Grantha<br>D.42<br>Museum Nasional Indonesia&nbsp;<br><br>Barus dikenal sebagai penghasil kamper atau kapur barus yang banyak digunakan oleh bangsa Timur-Tengah sejak awal masehi. Wilayah ini menjadi sasaran para pedagang Arab, India, Tiongkok, dan Tamil. Persekutuan dagang bangsa Tamil kemudian membangun permukiman di Barus dan mengeluarkan prasasti Lobu Tua sekitar abad ke-11 Masehi. Prasasti ini berisi regulasi pajak yang terkait pedagang-pedagang Tamil. Banyaknya temuan nisan makam di kawasan Barus menandai hadirnya Islam ke Nusantara melalui pedagang dari Timur Tengah yang singgah dan menetap di daerah tersebut.&nbsp;</p>",
     "modelUrl": "/cdn/static/glb/miskyat/MisykatPrasastiLobuTuaD42LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/miskyat/MisykatPrasastiLobuTuaD42LOW-id"
+    "audioUrl": "/cdn/static/audio/miskyat/MisykatPrasastiLobuTuaD42LOW-id.mp3"
 },{
     "id": "8f9e07f1-5c65-4084-912a-5f7b3b2c8995",
     "annotationId": "590d7a4e-df8d-4670-c6e93d6bdb5-1bda6",
     "language": "EN",
-    "title": "Manuscript of Rumekso Ing Wengi and Serat Ahmad Muhammad",
+    "title": "Lobu Tua Inscription",
     "description": "<p>Lobu Tua Village, Central Tapanuli, North Sumatra<br>Stone<br>Year 1088 AD<br>Tamil Language, Tamil Script, and Grantha Script<br>D.42<br>National Museum of Indonesia<br><br>Barus was known as a producer of camphor or kapur barus, which was widely used by Middle Eastern nations since the early centuries AD. This region became a target for Arab, Indian, Chinese, and Tamil traders. A Tamil merchant guild later established a settlement in Barus and issued the Lobu Tua inscription around the 11th century AD. This inscription contains tax regulations related to Tamil merchants. The numerous findings of tombstones in the Barus area mark the arrival of Islam in Nusantara through Middle Eastern traders who stopped and settled in the region.</p>",
     "modelUrl": "/cdn/static/glb/miskyat/MisykatPrasastiLobuTuaD42LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/miskyat/MisykatPrasastiLobuTuaD42LOW-en"
+    "audioUrl": "/cdn/static/audio/miskyat/MisykatPrasastiLobuTuaD42LOW-en.mp3"
+},{
+    "id": "557a378a-c17c-44aa-bd3e-167eabd439a2",
+    "annotationId": "ff978888-6f80-4914-8267-e8b753474ad7",
+    "language": "ID",
+    "title": "Naskah Rumekso Ing Wengi dan Serat Ahmad Muhammad",
+    "description": "<p>Indramayu&nbsp;<br>Daun lontar, kayu<br>Akhir abad ke-19<br>S 227-9<br>Museum Nasional Indonesia<br><br>Kumpulan naskah ini memuat teks kidung Rumekso Ing Wengi dan Serat Ahmad Muhammad. Kidung Rumekso Ing Wengi berisi doa dan pujian memohon perlindungan, biasanya dinyanyikan di malam hari. Serat Ahmad Muhammad menceritakan kisah kakak beradik anak seorang janda miskin dari Ngesam bernama Ahmad dan Muhammad. Mereka kelak menjadi raja Mesir.</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MisykatPrasastiLobuTuaD42LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/MisykatPrasastiLobuTuaD42LOW-id.mp3"
+},{
+    "id": "a46ab35a-0aa6-40a8-a6ff-20d327caf95c",
+    "annotationId": "ff978888-6f80-4914-8267-e8b753474ad7",
+    "language": "EN",
+    "title": "Manuscript of Rumekso Ing Wengi and Serat Ahmad Muhammad",
+    "description": "<p>Indramayu<br>Palm leaf, wood<br>Late 19th century&nbsp;<br>S 227-9<br>National Museum of Indonesia<br><br>This collection of manuscripts contains the text of the Rumekso Ing Wengi hymn and the Serat Ahmad Muhammad. The Rumekso Ing Wengi hymn is a prayer and praise seeking protection, often sung at night. The Serat Ahmad Muhammad tells the story of two brothers, Ahmad and Muhammad, children of a poor widow from Ngesam, who eventually become kings of Egypt.</p>",
+    "modelUrl": "/cdn/static/glb/miskyat/MisykatPrasastiLobuTuaD42LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/miskyat/MisykatPrasastiLobuTuaD42LOW-en.mp3"
 },{
     "id": "f86acc06-b8d4-45d2-aa24-d6e576c8749e",
     "annotationId": "c431eed2-5cf2-4aff-a059-9ee668c9013c",
@@ -133,7 +151,7 @@
     "description": "<p>Cirebon, Jawa Barat<br>Tanah liat<br>Abad ke-20<br>Cirebon, Jawa Barat<br>30588<br>Museum Nasional Indonesia<br><br>Padasan Paksinagaliman adalah wadah air wudhu berbentuk makhluk mitologi gabungan burung, naga, dan gajah. Bentuk ini mencerminkan akulturasi budaya Islam, Tionghoa, dan India, serta merefleksikan lingkungan sosial dan perkembangan seni hias di Cirebon.</p>",
     "modelUrl": "/cdn/static/glb/miskyat/MISYKATPADASAN30588LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/miskyat/MISYKATPADASAN30588LOW-id"
+    "audioUrl": "/cdn/static/audio/miskyat/MISYKATPADASAN30588LOW-id.mp3"
 },{
     "id": "288af829-666a-48d2-a942-7d98ac47af12",
     "annotationId": "c431eed2-5cf2-4aff-a059-9ee668c9013c",
@@ -142,7 +160,7 @@
     "description": "<p>Cirebon, West Java<br>Clay<br>20th Century<br>30588<br>National Museum of Indonesia<br><br>The Padasan Paksinagaliman is a water vessel for ablution shaped like a mythological creature combining a bird, a dragon, and anelephant. This form represents the cultural fusion of Islamic, Chinese, and Indian influences, reflecting the social environment and artistic development in Cirebon</p>",
     "modelUrl": "/cdn/static/glb/miskyat/MISYKATPADASAN30588LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/miskyat/MISYKATPADASAN30588LOW-en"
+    "audioUrl": "/cdn/static/audio/miskyat/MISYKATPADASAN30588LOW-en.mp3"
 },{
     "id": "4e10e884-9129-42e6-bbfa-9ff71edaa476",
     "annotationId": "2624c630-7c06-4644-9d6f-256b8d75f9be",
