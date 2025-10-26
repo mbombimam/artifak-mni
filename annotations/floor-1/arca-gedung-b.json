@@ -35,5 +35,23 @@
     "modelUrl": "/cdn/static/glb/arca-gedung-b/GEDUNGCLT1MAHAKALALOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/arca-gedung-b/"
+},{
+    "id": "ba198ea7-fd05-40f6-aca6-a232bb328b90",
+    "annotationId": "f957d080-b657-468c-acfa-5cb5e4c59c49",
+    "language": "ID",
+    "title": "Prajna paramita",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/arca-gedung-b/RSUNARCAPRAJNAPARAMITA17774LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/arca-gedung-b/"
+}, {
+    "id": "13b43972-932d-4c2d-ab90-7f79d18e50ea",
+    "annotationId": "f957d080-b657-468c-acfa-5cb5e4c59c49",
+    "language": "EN",
+    "title": "Prajna paramita",
+    "description": "",
+    "modelUrl": "/cdn/static/glb/arca-gedung-b/RSUNARCAPRAJNAPARAMITA17774LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/arca-gedung-b/"
 }
 ]
