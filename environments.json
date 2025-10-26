@@ -1,106 +1,197 @@
 [{
-	"id": "1d943bd0-b868-40d6-8059-50e0d1c627ff",
-	"name": "1rd Floor",
-	"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/cfee1a3295ff25a9a411076d01c9718e",
+	"id": "b162410b-a751-4e91-8e0a-52f587d2c588",
+	"envId": "18fa6322a8e5652cb388982d0837c999",
+	"name": "1rd Floor - Full (SD)",
+	"modelUrl": "/cdn/environments/models/9b2e604e6ca2c534502df6c813b05c38",
 	"meshUrl": "",
-	"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/09/25/6b1a310a2121ead4c3175a6f2109492f.webp",
-	"media": [],
+	"imgUrl": "/cdn/environments/img/2025/09/25/6b1a310a2121ead4c3175a6f2109492f.webp",
+	"media": [{
+		"language": "ID",
+		"audioUrl": "/cdn/static/audio/1rd-floors/backsound-halaman-depan.mp3"
+	}, {
+		"language": "EN",
+		"audioUrl": "/cdn/static/audio/1rd-floors/backsound-halaman-depan.mp3"
+	}],
 	"rooms": [{
 		"id": "1d943bd0-b868-40d6-8059-50e0d1c627ff",
-		"name": "Halaman Depan",
-		"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/cfee1a3295ff25a9a411076d01c9718e",
+		"envId": "93d4b1278ddfc09c096aea3d83d88882",
+		"name": "Halaman Depan - HD",
+		"modelUrl": "/cdn/environments/models/51a6bd389e2d4ee981c05564624a662e",
 		"meshUrl": "",
-		"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/09/25/6b1a310a2121ead4c3175a6f2109492f.webp",
+		"imgUrl": "/cdn/environments/img/2025/09/25/6b1a310a2121ead4c3175a6f2109492f.webp",
 		"media": [{
 			"language": "ID",
-			"audioUrl": "https://mni.radiancefields.id/cdn/static/audio/1rd-floors/backsound-arca-depan.mp3"
+			"audioUrl": "/cdn/static/audio/1rd-floors/backsound-halaman-depan.mp3"
 		}, {
 			"language": "EN",
-			"audioUrl": "https://mni.radiancefields.id/cdn/static/audio/1rd-floors/backsound-arca-depan.mp3"
-		}]
+			"audioUrl": "/cdn/static/audio/1rd-floors/backsound-halaman-depan.mp3"
+		}],
+		"spawn": {
+			"position": [-1.2738974677800086, -0.004398691640734952, -28.35457463755225],
+			"rotation": [0, 0, 0]
+		}
 	}, {
 		"id": "49fa57b3-ee69-4bfb-8078-9912f72b382e",
-		"name": "Ruang Arca Depan",
-		"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/f12ed9a727e77d0e9e2c827ea0fa5cba",
+		"envId": "ce75b52aeef029d090ff0a4867070205",
+		"name": "Ruang Rotunda (Ruang Arca Depan) - HD",
+		"modelUrl": "/cdn/environments/models/f12ed9a727e77d0e9e2c827ea0fa5cba",
 		"meshUrl": "",
-		"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/09/23/2b998679b05f00d8160fe695ebbc5497.webp",
+		"imgUrl": "/cdn/environments/img/2025/09/23/2b998679b05f00d8160fe695ebbc5497.webp",
 		"media": [{
 			"language": "ID",
-			"audioUrl": "https://mni.radiancefields.id/cdn/static/audio/1rd-floors/backsound-arca-depan.mp3"
+			"audioUrl": "/cdn/static/audio/1rd-floors/backsound-ruang-rotunda.mp3"
 		}, {
 			"language": "EN",
-			"audioUrl": "https://mni.radiancefields.id/cdn/static/audio/1rd-floors/backsound-arca-depan.mp3"
-		}]
+			"audioUrl": "/cdn/static/audio/1rd-floors/backsound-ruang-rotunda.mp3"
+		}],
+		"spawn": {
+			"position": [0.5200994588307594, -0.20823458322762595, 14.731308210266953],
+			"rotation": [0, 0, 0]
+		}
 	}, {
 		"id": "caa9581e-0ebe-4588-91c6-34dea37c2179",
-		"name": "Ruang Arca Belakang",
-		"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/d1ff62411914484153c63e53602068cd",
+		"envId": "5cce9cdaf904ce815d5a99ffe35b02da",
+		"name": "Ruang Arca Belakang - HD",
+		"modelUrl": "/cdn/environments/models/d1ff62411914484153c63e53602068cd",
 		"meshUrl": "",
-		"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/09/25/04a1dd8bf0f581c14aed17881d1ffec3.jpeg",
-		"media": []
+		"imgUrl": "/cdn/environments/img/2025/09/25/04a1dd8bf0f581c14aed17881d1ffec3.jpeg",
+		"media": [{
+			"language": "ID",
+			"audioUrl": "/cdn/static/audio/1rd-floors/backsound-ruang-arca-belakang.mp3"
+		}, {
+			"language": "EN",
+			"audioUrl": "/cdn/static/audio/1rd-floors/backsound-ruang-arca-belakang.mp3"
+		}],
+		"spawn": {
+			"position": [-4.911400433054478, -0.9985295886027445, -12.91618524008912],
+			"rotation": [0, 0, 0]
+		}
 	}, {
 		"id": "c1c4dfc1-6bc3-4752-a373-93e4ef86a2ae",
-		"name": "Ruang Arca Gedung B & Ruang Purba",
-		"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/1ae529cc37d17c9fae0e15c9bdc2f439",
+		"envId": "4386bd04c5ba5d385fd71deee80820c5",
+		"name": "Ruang Arca Gedung B - HD",
+		"modelUrl": "/cdn/environments/models/1b85610be8bd2274acc75afd88b9b19d",
 		"meshUrl": "",
-		"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/10/01/bcd7d3712c0e1e16a1b6157e0660ff07.png",
-		"media": []
-	}]
+		"imgUrl": "/cdn/environments/img/2025/10/01/bcd7d3712c0e1e16a1b6157e0660ff07.png",
+		"media": [{
+			"language": "ID",
+			"audioUrl": "/cdn/static/audio/1rd-floors/backsound-ruang-purba.mp3"
+		}, {
+			"language": "EN",
+			"audioUrl": "/cdn/static/audio/1rd-floors/backsound-ruang-purba.mp3"
+		}],
+		"spawn": {
+			"position": [-2.299698165938021, -0.16433441039979238, 2.1360607799503657],
+			"rotation": [0, 0, 0]
+		}
+	}],
+	"spawn": {
+		"position": [68.03872452230009, -0.6437182828136626, -35.53649237799042],
+		"rotation": [0, 0, 0]
+	}
 }, {
 	"id": "e5668ea1-71f2-4f8f-a735-fc3e754ab9df",
-	"name": "2rd Floors",
-	"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/8affb0ec392f1e7b70b1b20185140139",
+	"envId": "72e375d33f12c5ed9dfbc1ce2b1f19fb",
+	"name": "2rd Floors - Full (SD)",
+	"modelUrl": "/cdn/environments/models/8affb0ec392f1e7b70b1b20185140139",
 	"meshUrl": "",
-	"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/10/01/f6518345e7137023323bc230e59382ee.png",
-	"media": [],
-	"rooms": []
+	"imgUrl": "/cdn/environments/img/2025/10/01/f6518345e7137023323bc230e59382ee.png",
+	"media": [{
+		"language": "ID",
+		"audioUrl": "/cdn/static/audio/2rd-floors/backsound-ruang-alquran.mp3"
+	}, {
+		"language": "EN",
+		"audioUrl": "/cdn/static/audio/2rd-floors/backsound-ruang-alquran.mp3"
+	}],
+	"rooms": [],
+	"spawn": {
+		"position": [18.04578675703495, -0.2556902142368287, -31.8925910443362],
+		"rotation": [0, 0, 0]
+	}
 }, {
 	"id": "1ef4a7c0-9c8e-4363-8b9a-f838f4c4d173",
-	"name": "3rd Floors",
-	"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/8ef8d8b3289d097a098b18caee47a3bb",
+	"envId": "c57f7799bd416718a28a852a911dd446",
+	"name": "3rd Floors - Full (SD)",
+	"modelUrl": "/cdn/environments/models/8fd15edb2e3428fb405952b9df6c1ee7",
 	"meshUrl": "",
-	"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/09/25/623a6ebcee349df50da0069fb2579529.png",
+	"imgUrl": "/cdn/environments/img/2025/09/25/623a6ebcee349df50da0069fb2579529.png",
 	"media": [],
 	"rooms": [{
 		"id": "c9a5b5ea-84a6-4060-a801-9a14fb64875c",
-		"name": "Ruang Wayang",
-		"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/810abe396b4dca8cd8e1f4b16c1cf35a",
-		"meshUrl": "https://mni.radiancefields.id/cdn/environments/mesh/bb8546c56d5d44e1edc17b32212dc878.obj",
-		"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/10/07/f60a198faf20dc7c45611ae6229e3f90.png",
+		"envId": "0e0b563c1abeab4c8d33b2963833e465",
+		"name": "Ruang Wayang - HD",
+		"modelUrl": "/cdn/environments/models/810abe396b4dca8cd8e1f4b16c1cf35a",
+		"meshUrl": "/cdn/environments/mesh/bb8546c56d5d44e1edc17b32212dc878.obj",
+		"imgUrl": "/cdn/environments/img/2025/10/07/f60a198faf20dc7c45611ae6229e3f90.png",
 		"media": [{
 			"language": "ID",
-			"audioUrl": "https://mni.radiancefields.id/cdn/static/audio/3rd-floors/backsound.mp3"
+			"audioUrl": "/cdn/static/audio/3rd-floors/backsound-ruang-wayang.mp3"
 		}, {
 			"language": "EN",
-			"audioUrl": "https://mni.radiancefields.id/cdn/static/audio/3rd-floors/backsound.mp3"
-		}]
+			"audioUrl": "/cdn/static/audio/3rd-floors/backsound-ruang-wayang.mp3"
+		}],
+		"spawn": {
+			"position": [0, 0, 0],
+			"rotation": [0, -3.141592653589793, 0]
+		}
 	}, {
 		"id": "dbdde39a-e00d-4dc8-af09-8e2add9539e0",
-		"name": "Pilar Nasional",
-		"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/459a4b5c51262c471be62c7ce3818435",
+		"envId": "6689eac6228bdc170da31fc34f297207",
+		"name": "Pilar Nasional - HD",
+		"modelUrl": "/cdn/environments/models/459a4b5c51262c471be62c7ce3818435",
 		"meshUrl": "",
-		"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/09/25/2aafff20393e21efc6defb0b5d37a2b1.png",
+		"imgUrl": "/cdn/environments/img/2025/09/25/2aafff20393e21efc6defb0b5d37a2b1.png",
 		"media": [{
 			"language": "ID",
-			"audioUrl": "https://mni.radiancefields.id/cdn/static/audio/3rd-floors/backsound.mp3"
+			"audioUrl": "/cdn/static/audio/3rd-floors/backsound-pilar-nasional.mp3"
 		}, {
 			"language": "EN",
-			"audioUrl": "https://mni.radiancefields.id/cdn/static/audio/3rd-floors/backsound.mp3"
-		}]
+			"audioUrl": "/cdn/static/audio/3rd-floors/backsound-pilar-nasional.mp3"
+		}],
+		"spawn": {
+			"position": [2.864747770974155, -0.2643193602505259, -5.808640621905212],
+			"rotation": [0, -3.141592653589793, 0]
+		}
 	}, {
 		"id": "0172e571-b44c-448f-ad7d-1d35a1f12f0a",
-		"name": "Titian Kebebasan",
-		"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/5267448d238ada01852fbdae1e93c16b",
+		"envId": "688fb6d85bc7e642d4ab055ca0702588",
+		"name": "Titian Kebebasan - HD",
+		"modelUrl": "/cdn/environments/models/5267448d238ada01852fbdae1e93c16b",
 		"meshUrl": "",
-		"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/09/25/2684da069aae0cef7dc5d4b0aa9e3464.jpg",
-		"media": []
-	}]
+		"imgUrl": "/cdn/environments/img/2025/09/25/2684da069aae0cef7dc5d4b0aa9e3464.jpg",
+		"media": [{
+			"language": "ID",
+			"audioUrl": "/cdn/static/audio/3rd-floors/backsound-titian-kebebasan.mp3"
+		}, {
+			"language": "EN",
+			"audioUrl": "/cdn/static/audio/3rd-floors/backsound-titian-kebebasan.mp3"
+		}],
+		"spawn": {
+			"position": [9.003596288170241, -0.15834332284694858, -6.26056025941406],
+			"rotation": [0, -3.141592653589793, 0]
+		}
+	}],
+	"spawn": {
+		"position": [-15.60398470430203, -0.1643198332718769, 20.819131786368374],
+		"rotation": [0, -3.141592653589793, 0]
+	}
 }, {
 	"id": "8318b421-a78e-4f84-a4e1-d0de45143e5b",
-	"name": "4rd Floors",
-	"modelUrl": "https://mni.radiancefields.id/cdn/environments/models/43642fc52a5f76d79adbb2244d5091a4",
+	"envId": "538532a9dea1fb258fa70de98761e79b",
+	"name": "4rd Floors - Full (SD)",
+	"modelUrl": "/cdn/environments/models/d263ebbcae5fe98bab9408fa2c94ffcb",
 	"meshUrl": "",
-	"imgUrl": "https://mni.radiancefields.id/cdn/environments/img/2025/10/01/2935cf973ae81e8f964393bc403742cb.png",
-	"media": [],
-	"rooms": []
+	"imgUrl": "/cdn/environments/img/2025/10/01/2935cf973ae81e8f964393bc403742cb.png",
+	"media": [{
+		"language": "ID",
+		"audioUrl": "/cdn/static/audio/4rd-floors/backsound-4rd-floors.mp3"
+	}, {
+		"language": "EN",
+		"audioUrl": "/cdn/static/audio/4rd-floors/backsound-4rd-floors.mp3"
+	}],
+	"rooms": [],
+	"spawn": {
+		"position": [-0.04924325582415545, -0.1734851297581964, -2.445918846727443],
+		"rotation": [0, -3.141592653589793, 0]
+	}
 }]
