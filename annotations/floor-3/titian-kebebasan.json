@@ -1,5 +1,4 @@
-[
-{
+[{
     "id": "8659bf00-9552-4f4c-8520-5ab44d6b765a",
     "annotationId": "a730fd4e-5300-49ba-8258-ab9bc0a18806",
     "language": "ID",
@@ -8,7 +7,7 @@
     "modelUrl": "/cdn/static/glb/titan-kebebasan/BK7CTHVDTN2182LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/titan-kebebasan/BK7CTHVDTN2182LOW-id.mp3"
-},{
+}, {
     "id": "9f1e331f-4af7-401c-b20e-9f0d021f0c3f",
     "annotationId": "a730fd4e-5300-49ba-8258-ab9bc0a18806",
     "language": "EN",
@@ -17,25 +16,25 @@
     "modelUrl": "/cdn/static/glb/titan-kebebasan/BK7CTHVDTN2182LOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/titan-kebebasan/BK7CTHVDTN2182LOW-en.mp3"
-},{
+}, {
     "id": "c2c4e529-66eb-4b39-b0a5-f57ef8b8e27e",
     "annotationId": "04b1096c-b991-437b-b774-c7fad9ed90a9",
     "language": "ID",
     "title": "Wadah Kapur",
     "description": "<p>SUMBA.<br>AWAL ABAD KE-20<br>KAYU<br>NO INV. 18923<br><br>Sebuah wadah kapur dengan dihias ukiran gambar serdadu Belanda, digunakan dalam tradisi menginang atau makan sirih pinang. Belanda mulai berkoloni di Pulau Sumba sejak 1866, ketika Sumba masih menjadi bagian dari Keresidenan Timor.</p>",
-    "modelUrl": "/cdn/static/glb/titan-kebebasan/RSenjata18923WADAHKAPURLOW.glb",
+    "modelUrl": "/cdn/static/glb/titan-kebebasan/RSENJATATASPELURU05LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/titan-kebebasan/RSenjata18923WADAHKAPURLOW-id.mp3"
-},{
+    "audioUrl": "/cdn/static/audio/titan-kebebasan/RSENJATATASPELURU05LOW-id.mp3"
+}, {
     "id": "d9c89c20-c4d3-40ee-910d-dc4d6b08aed6",
     "annotationId": "04b1096c-b991-437b-b774-c7fad9ed90a9",
     "language": "EN",
     "title": "Slaked Lime Container",
     "description": "<p>SUMBA<br>EARLY 20TH CENTURY<br>WOOD<br>NO INV. 18923<br><br>A slake lime container adorned with carvings of Dutch soldiers, mostly used in the tradition of betel nut chewing. The Dutch began colonizing Sumba Island in 1866, when Sumba was still part of the Timor Residency.</p>",
-    "modelUrl": "/cdn/static/glb/titan-kebebasan/BK7CTHVDTN218RSenjata18923WADAHKAPURLOW2LOW.glb",
+    "modelUrl": "/cdn/static/glb/titan-kebebasan/RSENJATATASPELURU05LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/titan-kebebasan/RSenjata18923WADAHKAPURLOW-en.mp3"
-},{
+    "audioUrl": "/cdn/static/audio/titan-kebebasan/RSENJATATASPELURU05LOW-en.mp3"
+}, {
     "id": "f3bb6c58-df08-4684-934c-fef49587edf8",
     "annotationId": "243d5630-a7f9-48b3-a598-6f02a86a027a",
     "language": "ID",
@@ -44,14 +43,13 @@
     "modelUrl": "/cdn/static/glb/titan-kebebasan/RSenjata18923WADAHKAPURLOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/titan-kebebasan/RSenjata18923WADAHKAPURLOW-id.mp3"
-},{
+}, {
     "id": "2191f8e6-1ad6-4c96-82ed-0df66aa795ab",
     "annotationId": "243d5630-a7f9-48b3-a598-6f02a86a027a",
     "language": "EN",
     "title": "Slaked Lime Container",
     "description": "<p>NORTH SUMATRA.<br>LATE 19TH CENTURY<br>BUFFALO SKIN<br>NO INV. 11412<br><br>An ammo satchel made of buffalo leather, with a bamboo tube inside for storing gunpowder. This ammo satchel was used during the resistance against the Dutch military expedition in the Batak War period (1878-1907).</p>",
-    "modelUrl": "/cdn/static/glb/titan-kebebasan/BK7CTHVDTN218RSenjata18923WADAHKAPURLOW2LOW.glb",
+    "modelUrl": "/cdn/static/glb/titan-kebebasan/RSenjata18923WADAHKAPURLOW.glb",
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/titan-kebebasan/RSenjata18923WADAHKAPURLOW-en.mp3"
-}
-]
+}]
