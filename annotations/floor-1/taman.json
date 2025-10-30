@@ -144,6 +144,24 @@
     "imgUrl": "",
     "audioUrl": "/cdn/static/audio/taman/TAMANNANDI5518LOW-en.mp3"
 },{
+    "id": "4804099c-ccfa-4bff-9200-176dd8ed5e87",
+    "annotationId": "411e6f77-1d68-4bdf-841b-08e383252383",
+    "language": "ID",
+    "title": "NANDI",
+    "description": "<p>Tempat penemuan tidak diketahui<br>Abad ke-9-10 Masehi<br>No. Inv. 326c<br><br>Wahana (kendaraan) Dewa Śiwa berbentuk lembu jantan,&nbsp;simbol loyalitas, maskulinitas dan kekuatan fisik. Nandi&nbsp;menyimbolkan loyalitas, ketulusan, dan penjaga kesucian.</p>",
+    "modelUrl": "/cdn/static/glb/taman/TAMANNANDI326C(KECIL)LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/taman/TAMANNANDI326C(KECIL)LOW-id.mp3"
+},{
+    "id": "9c5e42e7-1614-48fb-99af-2c09b0ab8324",
+    "annotationId": "411e6f77-1d68-4bdf-841b-08e383252383",
+    "language": "EN",
+    "title": "NANDI",
+    "description": "<p>Place of discovery unknown<br>9th - 10th Century CE<br>No. Inv. 326c<br><br>Nandi, the vehicle of the Śiva, is depicted as a bull,&nbsp;symbolising loyalty, masculinity, and physical strength.&nbsp;Nandi represents loyalty, sincerity, and serves as a&nbsp;guardian of purity.</p>",
+    "modelUrl": "/cdn/static/glb/taman/TAMANNANDI326C(KECIL)LOW.glb",
+    "imgUrl": "",
+    "audioUrl": "/cdn/static/audio/taman/TAMANNANDI326C(KECIL)LOW-en.mp3"
+},{
     "id": "4eb886a4-df81-4414-ab6c-f67656514734",
     "annotationId": "af3eff01-7929-4552-aecc-cfe070aec3ce",
     "language": "ID",
