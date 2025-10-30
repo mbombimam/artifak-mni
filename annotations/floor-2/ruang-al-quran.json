@@ -1,221 +1,220 @@
-[
-{
+[{
     "id": "9d78f739-dd74-4cf9-a3b1-578e6eaa8672",
     "annotationId": "19d531c5-941a-409b-bd46-12b221affa97",
     "language": "ID",
     "title": "Batu Nisan Makam Kandang XII",
-    "description": "<p>Aceh<br>Batu<br>Bayt Al-Qur&rsquo;an dan Museum Istiqlal (BQMI)</p>",
+    "description": "<p>Aceh<br/>Batu<br/>Bayt Al-Qur&rsquo;an dan Museum Istiqlal (BQMI)</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanMakamKandangXII08LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "990ea47f-e1be-4fde-b0d1-3fa33738772a",
     "annotationId": "19d531c5-941a-409b-bd46-12b221affa97",
     "language": "EN",
     "title": "Makam Kandang XII Tombstone",
-    "description": "<p>Stone<br>Aceh<br>Bayt Al-Qur&rsquo;an and Museum Istiqlal (BQMI)</p>",
+    "description": "<p>Stone<br/>Aceh<br/>Bayt Al-Qur&rsquo;an and Museum Istiqlal (BQMI)</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanMakamKandangXII08LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "8c2036e9-b5c1-4123-947c-24123a9c3f1f",
     "annotationId": "e6bcd4a5-38d8-4d97-9556-bcaed1f3c25f",
     "language": "ID",
     "title": "Batu Nisan Aceh Bersayap",
-    "description": "<p>Aceh<br>Batu<br>Abad ke - 17-18 M<br>KFZ-Nissan 01<br>Rumah Kreatif Fadli Zon</p>",
+    "description": "<p>Aceh<br/>Batu<br/>Abad ke - 17-18 M<br/>KFZ-Nissan 01<br/>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayapKFZNisan01LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "f9e124d6-1b75-47ed-ba47-edb5f23035b5",
     "annotationId": "e6bcd4a5-38d8-4d97-9556-bcaed1f3c25f",
     "language": "EN",
     "title": "Winged Aceh Tombstone",
-    "description": "<p>Aceh<br>Stone<br>17th&ndash;18th Century CE<br>KFZ-Nissan 01<br>Fadli Zon's Creative House</p>",
+    "description": "<p>Aceh<br/>Stone<br/>17th&ndash;18th Century CE<br/>KFZ-Nissan 01<br/>Fadli Zon's Creative House</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayapKFZNisan01LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "0d7f46ce-f79c-41d6-ba71-d654843a71e6",
     "annotationId": "a2b36708-7468-47fe-97e6-34c3c41ddcbb",
     "language": "ID",
     "title": "Batu Nisan Aceh Bersayap",
-    "description": "<p>Aceh<br>Batu<br>Abad ke - 17-18 M<br>KFZ-Nissan 02<br>Rumah Kreatif Fadli Zon</p>",
+    "description": "<p>Aceh<br/>Batu<br/>Abad ke - 17-18 M<br/>KFZ-Nissan 02<br/>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap02RKFZNisan02LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "2d072054-a8e7-43f6-9818-2445013d2de5",
     "annotationId": "a2b36708-7468-47fe-97e6-34c3c41ddcbb",
     "language": "EN",
     "title": "Winged Aceh Tombstone",
-    "description": "<p>Aceh<br>Stone<br>17th&ndash;18th Century CE<br>KFZ-Nissan 02<br>Fadli Zon's Creative House</p>",
+    "description": "<p>Aceh<br/>Stone<br/>17th&ndash;18th Century CE<br/>KFZ-Nissan 02<br/>Fadli Zon's Creative House</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap02RKFZNisan02LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
-    "id": "c8a5d72c-79e4-436d-9811-626d1bbe2ef4",
-    "annotationId": "63d76634-ecb5-4071-8939-0e512d64d5a0",
-    "language": "ID",
-    "title": "Batu Nisan Aceh Bersayap",
-    "description": "<p>Aceh<br>Batu<br>Abad ke - 17-18 M<br>KFZ-Nissan 05<br>Rumah Kreatif Fadli Zon</p>",
-    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap03RKFZNisan05LOW.glb",
-    "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
-    "id": "9faf213f-44e9-4099-ba30-d9d2150b44c9",
-    "annotationId": "63d76634-ecb5-4071-8939-0e512d64d5a0",
-    "language": "EN",
-    "title": "Winged Aceh Tombstone",
-    "description": "<p>Aceh<br>Stone<br>17th&ndash;18th Century CE<br>KFZ-Nissan 05<br>Fadli Zon's Creative House</p>",
-    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap03RKFZNisan05LOW.glb",
-    "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "c8a5d72c-79e4-436d-9811-626d1bbe2ef4",
     "annotationId": "ccb7f366-0e85-41d1-9e2e-561fb67cfd28",
     "language": "ID",
     "title": "Batu Nisan Aceh Bersayap",
-    "description": "<p>Aceh<br>Batu<br>Abad ke - 17-18 M<br>KFZ-Nissan 04<br>Rumah Kreatif Fadli Zon</p>",
-    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap04RKFZNisan06LOW.glb",
+    "description": "<p>Aceh<br/>Batu<br/>Abad ke - 17-18 M<br/>KFZ-Nissan 05<br/>Rumah Kreatif Fadli Zon</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap03RKFZNisan05LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "9faf213f-44e9-4099-ba30-d9d2150b44c9",
     "annotationId": "ccb7f366-0e85-41d1-9e2e-561fb67cfd28",
     "language": "EN",
     "title": "Winged Aceh Tombstone",
-    "description": "<p>Aceh<br>Stone<br>17th&ndash;18th Century CE<br>KFZ-Nissan 04<br>Fadli Zon's Creative House</p>",
+    "description": "<p>Aceh<br/>Stone<br/>17th&ndash;18th Century CE<br/>KFZ-Nissan 05<br/>Fadli Zon's Creative House</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap03RKFZNisan05LOW.glb",
+    "imgUrl": "",
+    "audioUrl": ""
+}, {
+    "id": "c8a5d72c-79e4-436d-9811-626d1bbe2ef4",
+    "annotationId": "63d76634-ecb5-4071-8939-0e512d64d5a0",
+    "language": "ID",
+    "title": "Batu Nisan Aceh Bersayap",
+    "description": "<p>Aceh<br/>Batu<br/>Abad ke - 17-18 M<br/>KFZ-Nissan 04<br/>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap04RKFZNisan06LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
+    "id": "9faf213f-44e9-4099-ba30-d9d2150b44c9",
+    "annotationId": "63d76634-ecb5-4071-8939-0e512d64d5a0",
+    "language": "EN",
+    "title": "Winged Aceh Tombstone",
+    "description": "<p>Aceh<br/>Stone<br/>17th&ndash;18th Century CE<br/>KFZ-Nissan 04<br/>Fadli Zon's Creative House</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayap04RKFZNisan06LOW.glb",
+    "imgUrl": "",
+    "audioUrl": ""
+}, {
     "id": "44316b39-6055-4152-a9f5-f9a4f15465d3",
     "annotationId": "3f9c50d5-4f19-4794-a535-eae7283612cc",
     "language": "ID",
     "title": "Batu Nisan Aceh TipePipih “Berbahu”",
-    "description": "<p>Aceh<br>Batu<br>Abad ke-16 M<br>RFKZ-Nisan03<br>Rumah Kreatif Fadli Zon</p>",
+    "description": "<p>Aceh<br/>Batu<br/>Abad ke-16 M<br/>RFKZ-Nisan03<br/>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePipihBerbahu06RKFZNisan03LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "a70871b5-a143-472c-b163-b0bd6aa093b3",
     "annotationId": "3f9c50d5-4f19-4794-a535-eae7283612cc",
     "language": "EN",
     "title": "Flat-Shouldered Aceh Tombstone",
-    "description": "<p>Aceh<br>Stone<br>16th Century CE<br>RFKZ-Nisan03<br>Fadli Zon's Creative House</p>",
+    "description": "<p>Aceh<br/>Stone<br/>16th Century CE<br/>RFKZ-Nisan03<br/>Fadli Zon's Creative House</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePipihBerbahu06RKFZNisan03LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "b6f65cd5-6576-40c7-a628-dacb357f3045",
     "annotationId": "ded5c639-c7af-4ff2-890a-74764091cbea",
     "language": "ID",
     "title": "Nisan Bongal",
-    "description": "<p>Situs Bongal,Tapanuli Tengah<br>Batu<br>Abad ke 8-10 M<br>RKFZ.NISAN_BONGA L1br>Rumah Kreatif Fadli Zon</p>",
+    "description": "<p>Situs Bongal,Tapanuli Tengah<br/>Batu<br/>Abad ke 8-10 M<br/>RKFZ.NISAN_BONGA L1<br/>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal12RKFZNISANBONGAL4LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "baced570-756b-4309-be7e-e764261676a9",
     "annotationId": "ded5c639-c7af-4ff2-890a-74764091cbea",
     "language": "EN",
     "title": "Bongal Tombstone",
-    "description": "<p>Bongal Site, Central Tapanuli<br>Stone<br>8th&ndash;10th Century CE<br>RKFZ.NISAN_BONGA L1<br>Fadli Zon's Creative House</p>",
+    "description": "<p>Bongal Site, Central Tapanuli<br/>Stone<br/>8th&ndash;10th Century CE<br/>RKFZ.NISAN_BONGA L1<br/>Fadli Zon's Creative House</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal12RKFZNISANBONGAL4LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "6eb17838-5c9c-4d3c-8b3b-a117ac5400c0",
     "annotationId": "b44f658f-98a2-4e69-a071-df1b7086ca75",
     "language": "ID",
     "title": "Nisan Bongal",
-    "description": "<p>Situs Bongal,Tapanuli Tengah<br>Batu<br>Abad ke 8-10 M<br>RKFZ.NISAN_BONGA L2br>Rumah Kreatif Fadli Zon</p>",
+    "description": "<p>Situs Bongal,Tapanuli Tengah<br/>Batu<br/>Abad ke 8-10 M<br/>RKFZ.NISAN_BONGA L2br>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal11RKFZNISANBONGAL3LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "9c78834a-8324-444f-8a95-9582ef076cb0",
     "annotationId": "b44f658f-98a2-4e69-a071-df1b7086ca75",
     "language": "EN",
     "title": "Bongal Tombstone",
-    "description": "<p>Bongal Site, Central Tapanuli<br>Stone<br>8th&ndash;10th Century CE<br>RKFZ.NISAN_BONGA L2<br>Fadli Zon's Creative House</p>",
+    "description": "<p>Bongal Site, Central Tapanuli<br/>Stone<br/>8th&ndash;10th Century CE<br/>RKFZ.NISAN_BONGA L2<br/>Fadli Zon's Creative House</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal11RKFZNISANBONGAL3LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "fb511be5-0aed-423b-8dfb-c957ac6bed70",
     "annotationId": "08842799-1a3a-458d-a87a-b41a68ee5625",
     "language": "ID",
     "title": "Nisan Bongal",
-    "description": "<p>Situs Bongal,Tapanuli Tengah<br>Batu<br>Abad ke 8-10 M<br>RKFZ.NISAN_BONGA L3br>Rumah Kreatif Fadli Zon</p>",
+    "description": "<p>Situs Bongal,Tapanuli Tengah<br/>Batu<br/>Abad ke 8-10 M<br/>RKFZ.NISAN_BONGA L3br>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal10RKFZNISANBONGAL2LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "f4482a37-97e4-4172-b1cf-cfbdd6aa85bc",
     "annotationId": "08842799-1a3a-458d-a87a-b41a68ee5625",
     "language": "EN",
     "title": "Bongal Tombstone",
-    "description": "<p>Bongal Site, Central Tapanuli<br>Stone<br>8th&ndash;10th Century CE<br>RKFZ.NISAN_BONGA L3<br>Fadli Zon's Creative House</p>",
+    "description": "<p>Bongal Site, Central Tapanuli<br/>Stone<br/>8th&ndash;10th Century CE<br/>RKFZ.NISAN_BONGA L3<br/>Fadli Zon's Creative House</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal10RKFZNISANBONGAL2LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "249be5e1-0caa-40be-bbb6-5c05c276801e",
     "annotationId": "ac5dba8e-972f-4d7c-b67d-dbce1172198c",
     "language": "ID",
     "title": "Nisan Bongal",
-    "description": "<p>Situs Bongal,Tapanuli Tengah<br>Batu<br>Abad ke 8-10 M<br>RKFZ.NISAN_BONGA L4<br>Rumah Kreatif Fadli Zon</p>",
-    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal10RKFZNISANBONGAL5LOW.glb",
+    "description": "<p>Situs Bongal,Tapanuli Tengah<br/>Batu<br/>Abad ke 8-10 M<br/>RKFZ.NISAN_BONGA L4<br/>Rumah Kreatif Fadli Zon</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayapKFZNisan01LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "0314c257-1b59-4c53-9086-12a826343d9c",
     "annotationId": "ac5dba8e-972f-4d7c-b67d-dbce1172198c",
     "language": "EN",
     "title": "Bongal Tombstone",
-    "description": "<p>Bongal Site, Central Tapanuli<br>Stone<br>8th&ndash;10th Century CE<br>RKFZ.NISAN_BONGA L4<br>Fadli Zon's Creative House</p>",
-    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal10RKFZNISANBONGAL5LOW.glb",
+    "description": "<p>Bongal Site, Central Tapanuli<br/>Stone<br/>8th&ndash;10th Century CE<br/>RKFZ.NISAN_BONGA L4<br/>Fadli Zon's Creative House</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehBersayapKFZNisan01LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "a2e6ab4c-e059-4fe9-90ba-20b02fc7cd98",
     "annotationId": "6068e276-e141-40cf-895c-754c4feaadc1",
     "language": "ID",
     "title": "Nisan Bongal",
-    "description": "<p>Situs Bongal,Tapanuli Tengah<br>Batu<br>Abad ke 8-10 M<br>RKFZ.NISAN_BONGA L5<br>Rumah Kreatif Fadli Zon</p>",
-    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal10RKFZNISANBONGAL1LOW.glb",
+    "description": "<p>Situs Bongal,Tapanuli Tengah<br/>Batu<br/>Abad ke 8-10 M<br/>RKFZ.NISAN_BONGA L5<br/>Rumah Kreatif Fadli Zon</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal09RKFZNISANBONGAL1LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "75e5ed88-4e4f-4232-a5fd-d01987dc0969",
     "annotationId": "6068e276-e141-40cf-895c-754c4feaadc1",
     "language": "EN",
     "title": "Bongal Tombstone",
-    "description": "<p>Bongal Site, Central Tapanuli<br>Stone<br>8th&ndash;10th Century CE<br>RKFZ.NISAN_BONGA L5<br>Fadli Zon's Creative House</p>",
-    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal10RKFZNISANBONGAL1LOW.glb",
+    "description": "<p>Bongal Site, Central Tapanuli<br/>Stone<br/>8th&ndash;10th Century CE<br/>RKFZ.NISAN_BONGA L5<br/>Fadli Zon's Creative House</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal09RKFZNISANBONGAL1LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "c4111d0d-5b44-45c9-93b0-2f4cf29d08df",
     "annotationId": "d7c5c0e2-05be-4c9c-ab29-ed7b5253c780",
     "language": "ID",
     "title": "Batu Nisan Aceh Tipe Pipih “Berbahu”",
-    "description": "<p>Aceh<br>Batu<br>Abad ke-16 M<br>RFKZ-Nisan04<br>Rumah Kreatif Fadli Zon</p>",
+    "description": "<p>Aceh<br/>Batu<br/>Abad ke-16 M<br/>RFKZ-Nisan04<br/>Rumah Kreatif Fadli Zon</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePipihBerbahu07RKFZNisan04LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "5aec4b11-c131-438d-b96e-d7663d68e6ed",
     "annotationId": "d7c5c0e2-05be-4c9c-ab29-ed7b5253c780",
     "language": "EN",
     "title": "Flat-Shouldered Aceh Tombstone",
-    "description": "<p>Aceh<br>Stone<br>16th Century CE<br>RFKZ-Nisan04<br>Fadli Zon's Creative House</p>",
+    "description": "<p>Aceh<br/>Stone<br/>16th Century CE<br/>RFKZ-Nisan04<br/>Fadli Zon's Creative House</p>",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePipihBerbahu07RKFZNisan04LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "35ca5bab-df34-4525-b8bb-8174029f654c",
     "annotationId": "74a8eba7-51f8-4722-8985-0619e2592872",
     "language": "ID",
@@ -223,8 +222,8 @@
     "description": "",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePilar05KFZNisan07LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-},{
+    "audioUrl": ""
+}, {
     "id": "a61d0b8a-70a6-4a59-b1d8-dd75d8dcdd65",
     "annotationId": "74a8eba7-51f8-4722-8985-0619e2592872",
     "language": "EN",
@@ -232,6 +231,23 @@
     "description": "",
     "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlBatuNisanAcehTipePilar05KFZNisan07LOW.glb",
     "imgUrl": "",
-    "audioUrl": "/cdn/static/audio/ruang-al-quran/"
-}
-]
+    "audioUrl": ""
+}, {
+    "id": "8c9fae55-fb7b-4fa6-8bc0-e109f88266fb",
+    "annotationId": "74084097-2541-4aa4-9bca-539d33041b63",
+    "language": "ID",
+    "title": "Nisan Bongal",
+    "description": "<p>Tapanuli Tengah<br/>Batu<br/>Abad ke 8-10 M<br/>Situs Bongal<br/>RKFZ.NISAN_BONGAL4<br/>Rumah Kreatif Fadli Zon</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal13RKFZNISANBONGAL5LOW.glb",
+    "imgUrl": "",
+    "audioUrl": ""
+}, {
+    "id": "01a47c41-4461-4fdc-9ab5-67b44fe52acf",
+    "annotationId": "74084097-2541-4aa4-9bca-539d33041b63",
+    "language": "EN",
+    "title": "Bongal Tombstone",
+    "description": "<p>Central Tapanuli<br/>Stone<br/>8th&ndash;10th Century CE<br/>Bongal Site<br/>RKFZ.NISAN_BONGAL4<br/>Fadli Zon's Creative House</p>",
+    "modelUrl": "/cdn/static/glb/ruang-al-quran/RAlNisanBongal13RKFZNISANBONGAL5LOW.glb",
+    "imgUrl": "",
+    "audioUrl": ""
+}]
